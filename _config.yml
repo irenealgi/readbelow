@@ -1,0 +1,17 @@
+title: Read Below
+email: irenealgi@gmail.com
+description: Literature, publishing & many other matters.
+url: "http://readbelow.net"
+
+markdown: kramdown
+permalink: :title
+
+sass:
+  style: :compressed
+  sass_dir: assets/sass
+
+paginate: 5
+gems:
+  - jekyll-paginate
+
+exclude: [Guardfile, .gitignore, README.md]
