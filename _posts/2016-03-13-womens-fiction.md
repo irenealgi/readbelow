@@ -63,8 +63,8 @@ I’m going to do something tricky here - are you ready?
 Bookstores have a way of categorizing and distributing their books across the shopfloor. I am of course generalising, but you usually get the product separated into two main types: Fiction and Non-Fiction. Non-Fiction will include all sorts of books, from photography catalogues to cooking recipes, books on astrophysics, economics and history, commercial non-fiction, academic books (if the bookshop caters those) and my favourite of all: dictionaries and language activity books. Yep, those are books, too!
 
 Compared to the complex Non-Fiction multi-sections, the humble (Adult) Fiction side should be pretty straightforward. Right? Let’s take a closer look at the list (do I love lists!):
-- Classics (what constitutes a classic?)
-- Fantasy (what constitutes fantasy?)
+-Classics (what constitutes a classic?)
+-Fantasy (what constitutes fantasy?)
 - Science-fiction (no, this is not fantasy)
 - Crime Fiction 
 - Thriller (hehe, I honestly don’t know what that means)
