@@ -63,17 +63,17 @@ I’m going to do something tricky here - are you ready?
 Bookstores have a way of categorizing and distributing their books across the shopfloor. I am of course generalising, but you usually get the product separated into two main types: Fiction and Non-Fiction. Non-Fiction will include all sorts of books, from photography catalogues to cooking recipes, books on astrophysics, economics and history, commercial non-fiction, academic books (if the bookshop caters those) and my favourite of all: dictionaries and language activity books. Yep, those are books, too!
 
 Compared to the complex Non-Fiction multi-sections, the humble (Adult) Fiction side should be pretty straightforward. Right? Let’s take a closer look at the list (do I love lists!):
-Classics (what constitutes a classic?)
-Fantasy (what constitutes fantasy?)
-Science-fiction (no, this is not fantasy)
-Crime Fiction 
-Thriller (hehe, I honestly don’t know what that means)
-Horror
-Erotica
-Literary & Commercial Fiction (you’ll usually find these merged together under General Fiction)
-Chick-Lit (which sometimes is in the above category, and other times it isn’t)
-Romance Fiction
-YA, aka Young Adult Fiction
+-Classics (what constitutes a classic?)
+-Fantasy (what constitutes fantasy?)
+-Science-fiction (no, this is not fantasy)
+-Crime Fiction 
+-Thriller (hehe, I honestly don’t know what that means)
+-Horror
+-Erotica
+-Literary & Commercial Fiction (you’ll usually find these merged together under -General Fiction)
+-Chick-Lit (which sometimes is in the above category, and other times it isn’t)
+-Romance Fiction
+-YA, aka Young Adult Fiction
 
 Here comes the tricky thing: among the categories above, you will find that two of them are _only_ targeted at women (and by only, I mean _only_, and I don’t care if you have an uncle who happens to be a rarity and reads a couple of Romance Fiction novels every week); that’s not the point. The key word here is _targeting_. Even _if_ (and I would love to see some actual data on this) Fantasy, Science-Fiction, Crime Fiction, Thriller and Horror are typically consumed by men, they are not targeted at men. In fact, editorial teams put a reasonable amount of effort into acquiring niche stories that will appeal to women. Why is that? Well, because women are great fiction consumers, of course - the more they can buy, the better. 
 
@@ -81,7 +81,7 @@ In recent years we’ve been trying to get women more involved with things or cu
 
 Are men genuinely incapable of enjoying women’s fiction, or are we all making it happen - or rather, preventing it from happening?
 
-##### The stigma
+### The stigma
 
 As with many other womanly things, there’s a stigma associated with women’s fiction. Women’s fiction is for _sissies_. Women’s fiction is boring, or superficial, or frivolous. Women’s fiction is not as serious as normal, regular or general fiction. Women’s fiction can never be as good. This also applies to all other niche categories; what bothers me is that women’s fiction is a niche category in itself.
 
