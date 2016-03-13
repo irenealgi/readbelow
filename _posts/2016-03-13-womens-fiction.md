@@ -4,6 +4,7 @@ title: Women’s Fiction
 published: true
 ---
 
+
 Wikipedia defines _Women’s Fiction_ as an umbrella term for women-centered books that focus on women's life experiences and are marketed to female readers; it’s a category that includes many mainstream novels. So, to make this clearer, the women’s fiction category is for:
 
 Women-centered books
@@ -90,6 +91,6 @@ It shouldn’t be that way. There shouldn’t be a distinction. To some extent, 
 
 Because they aren’t. It’s for the public to decide whether they are literary or not, and for time to pass before we see them become classics or not (and, yes, I’m aware that two of them have already done that). Who reads them or not, however, should not be an issue. Everyone should read them because both men and women can enjoy them equally, understand them equally, and take just as many things from them.
 
-So what if a book revolves around the life of a woman? Are _David Copperfield_, _Stoner_, _The remains of day_ or _Ulysses_ men fiction? 
+So what if a book revolves around the life of a woman? Are _David Copperfield_, _Stoner_, _The remains of day_ or _Ulysses_ men's fiction? 
 
 But of course they are not. That category doesn’t even exist.
