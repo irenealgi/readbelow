@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minor similarities and major differences in <em>Rebecca</em> and <em>Jane Eyre</em>
+title: Minor similarities & major differences in <em>Rebecca</em> and <em>Jane Eyre</em>
 published: true
 ---
 
