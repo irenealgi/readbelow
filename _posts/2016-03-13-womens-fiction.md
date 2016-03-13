@@ -48,13 +48,13 @@ Which is why we have come up with a brilliant set of subcategories within the Wo
 
 Which takes me to discovery number 2:
 
-Women can read both general Literary or Commercial Fiction and Literary or Commercial Fiction for women; men can’t. 
+>Women can read both general Literary or Commercial Fiction and Literary or Commercial Fiction for women; men can’t. 
 
 If anything, the book industry is excluding men rather than women by setting a category that will/should not appeal to them. 
 
 But it could also be interpreted as:
 
-Men read fiction targeted at people who can read; women read fiction targeted specifically at women.
+>Men read fiction targeted at people who can read; women read fiction targeted specifically at women.
 
 Now, as much as it annoys me, I know there are sensible reasons behind these female-oriented categories; they just work. The truth is, women read more fiction than men, and organising fiction in understandable, relatively clear categories helps target and sell novels better. Women know what they want, and the easier you make it for them to get it, the more books you will sell. But as much as I want to be ok with this, I just can’t.
 
@@ -63,8 +63,9 @@ I’m going to do something tricky here - are you ready?
 Bookstores have a way of categorizing and distributing their books across the shopfloor. I am of course generalising, but you usually get the product separated into two main types: Fiction and Non-Fiction. Non-Fiction will include all sorts of books, from photography catalogues to cooking recipes, books on astrophysics, economics and history, commercial non-fiction, academic books (if the bookshop caters those) and my favourite of all: dictionaries and language activity books. Yep, those are books, too!
 
 Compared to the complex Non-Fiction multi-sections, the humble (Adult) Fiction side should be pretty straightforward. Right? Let’s take a closer look at the list (do I love lists!):
--Classics (what constitutes a classic?)
--Fantasy (what constitutes fantasy?)
+
+- Classics (what constitutes a classic?)
+- Fantasy (what constitutes fantasy?)
 - Science-fiction (no, this is not fantasy)
 - Crime Fiction 
 - Thriller (hehe, I honestly don’t know what that means)
