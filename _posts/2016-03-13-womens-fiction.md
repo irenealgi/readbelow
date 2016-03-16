@@ -36,9 +36,9 @@ The following books, however, could be considered women’s fiction:
 - _50 Shades of Grey_, by E.L. James
 - _We Are All Completely Beside Ourselves_, by Karen Joy Fowler
 
-As you can see from the list above, whatever falls under the category is just as heterogeneous as whatever falls outside the category. Reading it again, I can’t believe I put the experimental Mrs Dalloway next to gothic and dramatic _Jane Eyre_, sardonic _Pride and Prejudice_, funny and irreverent _Bridget Jones_, complex _The Hours_, cheesy and chaste _The Notebook_ and racy _50 Shades of Grey_ in the same sack. It makes no sense; welcome to discovery #1: 
+As you can see from the list above, whatever falls under the category is just as heterogeneous as whatever falls outside the category. Reading it again, I can’t believe I put the experimental Mrs Dalloway next to gothic and dramatic _Jane Eyre_, sardonic _Pride and Prejudice_, funny and irreverent _Bridget Jones_, complex _The Hours_, cheesy and chaste _The Notebook_ and racy _50 Shades of Grey_ in the same sack. It makes no sense; welcome to discovery number one: 
 
-Women’s Fiction as a category makes no sense whatsoever. 
+>Women’s Fiction as a category makes no sense whatsoever. 
 
 Which is why we have come up with a brilliant set of subcategories within the Women’s Fiction category:
 
