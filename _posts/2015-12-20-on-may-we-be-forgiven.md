@@ -1,10 +1,8 @@
 ---
 layout: post
-title: On _May we be forgiven_: I may forgive you after all, AM Homes
+title: "On _May we be forgiven_: I may forgive you after all, AM Homes"
 published: true
 ---
-
-
 
 It took me over twenty days of my precious life to finish this book. During those twenty days - and then some -, people would ask me: 'oh, so what are you reading now?' And I would say, '_May we be forgiven_, by AM Homes. Not sure I'm going to forgive her.' People found it funny. I meant it as a joke, but I was being serious. I have no regrets though, I'm happy that I read this. I'm glad that, finally, interesting, thought-provoking, not-wow-not-meh-not-ugh books are crawling back to my shelves. Makes my reading life a lot more exciting.
 
