@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On _May we be forgiven_: I may forgive you after all, AM Homes"
+title: "On <em>May we be forgiven</em>: I may forgive you after all, AM Homes"
 published: true
 ---
 
