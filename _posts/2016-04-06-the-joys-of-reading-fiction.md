@@ -50,7 +50,7 @@ We live in a world where little is left to the imagination - from clear images o
 
 Reading non-fiction is good for improving your general vocabulary and mastering grammar, but nothing - or no one - teaches new words like Vladimir Nabokov (who, funnily enough, didn't write in his mother tongue). The purpose of non-fiction writing - especially in commercial non-fiction - is to clearly inform and make a point. _Clearly_. As simply as possible.
 
-Can you imagine if James Joyce had woken up one day and said, _'Hah, I'll re-write Ulyssess, but I'll make it simple this time around!' Some of you may think that'd be worth celebrating, and I won't contradict you because I haven't even gathered the courage to read that. Yet. 
+Can you imagine if James Joyce had woken up one day and said, _'Hah, I'll re-write Ulyssess, but I'll make it simple this time around!_' Some of you may think that'd be worth celebrating, and I won't contradict you because I haven't even gathered the courage to read that. Yet. 
 
 But my point is that _Ulysses_ made simple wouldn't be _Ulysses_'. It'd be the story of one man's day in Dublin. _Mrs Dalloway_ made simple could be told in a couple of lines: 'That day she was having a party. She finished prepping the party. She hosted a party. Her exboyfriend showed up at the door, and she remembered her youth. Eventually, people left'. No one wants to read that, even if takes just half a page. 
 
