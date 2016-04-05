@@ -60,7 +60,7 @@ The joy of literature is that fiction writers play with words, grammar, language
 
 And with this one I finish.
 
-Newspapers are getting thinner, articles snappier. Facebook doesn't favour long form, and Twitter forces you to write under 140 characters. We consume Buzzfeed and Snapshat; Instagram is mostly images and hashtags, maybe meaninful but free of any sense of grammar. 
+Newspapers are getting thinner, articles snappier. Facebook doesn't favour long-form, and Twitter forces you to write under 140 characters. We consume Buzzfeed and Snapshat; Instagram is mostly images and hashtags, maybe meaninful but free of any sense of grammar. 
 
 We are able to hold several conversations at once via Whatsapp and I think twice before comitting to the two and a half hours I will need in order to reach the ending - I might as well watch a 45'-long episode. 
 
