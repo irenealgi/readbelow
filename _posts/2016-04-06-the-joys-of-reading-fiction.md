@@ -28,7 +28,7 @@ Reading fiction is a great way to learn about stuff, from history to medical tre
 
 #####Fiction improves your ability to sympathise
 
-There's proof that < a href="http://www.scientificamerican.com/article/novel-finding-reading-literary-fiction-improves-empathy/" target="_blank">fiction readers tend to be more sensitive</a>, and even if there weren't, that's something I have suspected for a long time. I have always read a lot, and it's always been fiction (until now, that is!). And I've been praised a few times on my ability to understand others, to see where others are coming from. Yep, it's all in the books. 
+There's proof that <a href="http://www.scientificamerican.com/article/novel-finding-reading-literary-fiction-improves-empathy/" target="_blank">fiction readers tend to be more sensitive</a>, and even if there weren't, that's something I have suspected for a long time. I have always read a lot, and it's always been fiction (until now, that is!). And I've been praised a few times on my ability to understand others, to see where others are coming from. Yep, it's all in the books. 
 
 #####Fiction improves your ability to consider facts and foresee the consequences
 
