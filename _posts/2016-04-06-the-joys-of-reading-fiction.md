@@ -12,7 +12,7 @@ I loved reading from the start, and to this day I don't know if I enjoyed it bec
 
 Reading started as a form of escapism, of pure entertainment, and it was so for years. I think I began to read for enlightment quite late - I must have been fifteen or sixteen when I first grabbed _a difficult book_. 
 
-<h5>On difficult books</h5>
+**On difficult books**
 
 Difficult books are those you struggle with in some way. You may struggle with them because they are hard to make sense of, or because they are good, but some passages could make you die of boredom. _Anna Karenina_, anyone? Difficult books often feature complex language, or grammar, or structure, or themes. Sometimes they are complex in so many ways that you have to put them aside and get back to them when you feel ready to take on the challenge.
 
@@ -22,15 +22,15 @@ Difficult books can be a nightmare, but they can also be rewarding. Just like mo
 
 It's the same with _difficult books_ - if you go for the easy pick, you may be able to read faster (and probably more), but you'll feel emptier because, well, they didn't take much effort, and they didn't challenge you in any way. It's like reading the same story over and over, like having a degree in Biology and reading Year 8 books on Natural Sciences. It's pointless and, frankly, very boring. If you like reading, go for it. Take the challenge. Ryan Holiday wrote about <a href="http://thoughtcatalog.com/ryan-holiday/2013/04/read-to-lead-how-to-digest-books-above-your-level/" target="_blank" >reading above your level in order to lead </a>, but he was talking mostly about non-fiction. I'm mostly a fiction reader, so here's why I think you should read _Ulysses_ (or whatever is your nemesis).
 
-<h4>Fiction enables learning through beauty and entertainment</h4>
+**Fiction enables learning through beauty and entertainment**
 
 Reading fiction is a great way to learn about stuff, from history to medical treatments, politics, philosophy or religion, to name a few general topics I've read about on several occasions and thanks to several books. There are so many things I've learned while readings novels! Trivia and anecdotes are the best.
 
-#### Fiction improves your ability to sympathise
+**Fiction improves your ability to sympathise**
 
 There's proof that <a href="http://www.scientificamerican.com/article/novel-finding-reading-literary-fiction-improves-empathy/" target="_blank">fiction readers tend to be more sensitive</a>, and even if there weren't, that's something I have suspected for a long time. I have always read a lot, and it's always been fiction (until now, that is!). And I've been praised a few times on my ability to understand others, to see where others are coming from. Yep, it's all in the books. 
 
-#### Fiction improves your ability to consider facts and foresee the consequences
+**Fiction improves your ability to consider facts and foresee the consequences**
 
 Sometimes we forget that fiction is based on real life. Even fantasy fiction has been imagined up and written by a human living on this planet, _now_. So no matter how strange their plots may seem, they still follow the logics of the world. Just like in fiction, you can never know for certain, but just like when you are reading fiction, you can take a wild guess - and just like when you are reading fiction, more often than not your guessing will be spot on. 
 
@@ -38,7 +38,7 @@ Our ability to understand and foresee the consequences of what's happening in th
 
 The more fiction you read, the more experiences you learn about. It's like hearing about your neighbour having lung cancer after forty years of smoking, but multiplied by x1000. You get to read a lot about people making mistakes, and sometimes you may even learn from them .
 
-#### Fiction pumps your capacity to imagine
+**Fiction pumps your capacity to imagine**
 
 There's a reason why every time a film adaptation comes up some readers respond to it furiously. When a reader grabs an unabridged text, it's just the original story and them. The author has written a story which they are reading and interpreting as they feel, as it speaks to _them_. But because each of us has a different experience based on our knowledge, understanding and perception of the world, each of us reads the same story differently.
 
@@ -46,7 +46,7 @@ A film adaptation is just another reading of a story, someone else's interpretat
 
 We live in a world where little is left to the imagination - from clear images of far away wars to TV shows featuring forensic doctors and porn (sometimes mixed, probably) -, and while there's nothing wrong with that, it's ruining our ability to imagine _things_. Last time I checked, _imagining_ and _creating_ went hand in hand. If we lose our ability to imagine, we lose our ability to create new things. We lose our ability to move forward.
 
-#### Fiction improves your use of language
+**Fiction improves your use of language**
 
 Reading non-fiction is good for improving your general vocabulary and mastering grammar, but nothing - or no one - teaches new words like Vladimir Nabokov (who, funnily enough, didn't write in his mother tongue). The purpose of non-fiction writing - especially in commercial non-fiction - is to clearly inform and make a point. _Clearly_. As simply as possible.
 
@@ -56,7 +56,7 @@ But my point is that _Ulysses_ made simple wouldn't be _Ulysses_'. It'd be the s
 
 The joy of literature is that fiction writers play with words, grammar, language. And when you read them, you learn. Like when I learned came across the word <a href="http://www.merriam-webster.com/dictionary/granoblastic" target="_blank">_granoblastically_</a> on _Ada or Ardor_, and looked it up on the dictionary, and wondered whether it was a real word at all, and it was. And to this day I haven't had the chance to use it, but I still remember it, fresh and ready to go. 
 
-#### Fiction - and reading in general - teaches long-term focus
+**Fiction - and reading in general - teaches long-term focus**
 
 And with this one I finish.
 
@@ -71,6 +71,3 @@ If I haven't lost you by this point, kudos to you for being this strong. Thank y
 That's one other thing I've learned from reading. You can slow down. You can enjoy the ride - quite literally, many times on a commute. You can even extend that ride so that the pleasure of reading lasts longer. Like when you pick a longer commute so that you can spend more quality time reading, because it's only on the tube - with no WIFI - that you are able to focus on that.
 
 Don't look at me like this. I know I'm not the only one. 
-
-
- 
