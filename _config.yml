@@ -10,7 +10,7 @@ sass:
   style: :compressed
   sass_dir: assets/sass
 
-paginate: 5
+paginate: 1
 gems:
   - jekyll-paginate
 
