@@ -3,6 +3,7 @@ layout: post
 title: On the joys of reading fiction
 published: true
 ---
+![https://unsplash.com/photos/9dw0xLlxw1s/download]
 
 I was by no means the brightest child in my class, but my parents claim I mastered two things before anyone else in my year: shoe-lacing and reading. Apparently I was tying my friend's shoes by the age of three, and could read at normal speed by the age of seven. Since 80% of the shoes in my rather impressive collection _have_ laces, and books have been my favourite companions for almost three decades, I'd say my much younger self was onto something here.
 
