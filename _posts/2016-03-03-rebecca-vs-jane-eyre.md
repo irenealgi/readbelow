@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Minor similarities & major differences in <em>Rebecca</em> and <em>Jane Eyre</em>
+title: "Minor similarities & major differences in <em>Rebecca</em> and <em>Jane Eyre</em>"
 published: true
 ---
 
+
+![](http://attpac-website-assets.s3.amazonaws.com/assets/Image/2689.jpg)
 
 I read _Jane Eyre_, by Charlotte Brönte, more than ten years ago, when I was still in high school. I remember not liking it very much, having a hard time sympathising with the heroine, finding the story slightly too sad and just pathetic (I recall writing an essay on how it reminded me of _Cinderella_, only a lot less glamorous). It was also way too long. Then I went on to study English at university; it turned out unattractive but bright _Jane Eyre_ was a favourite among most of my (female) peers. So witty, so strong, so self-possessed, ever so _right_ and bordering on moral perfection. On the contrary, I have always been a fan of crazy and passionate Catherine Earnshaw from _Wuthering Heights_, which could be considered as the ultimate antithesis of plain ol’ Jane. Truth be told, I never cared much for Jane, and not even when the novel turned out to be of compulsory reading on one of my courses did I attempt to re-reading it in its entirety. I just couldn’t be bothered.
 
@@ -45,4 +47,4 @@ Mrs de Winter in _Rebecca_, however, stays with Maxim because she’s comfortabl
 
 I realised, while searching for quotes from _Jane Eyre_, that I haven’t been fair to the XIXth century classic. In fact, I found most of the quotes from that novel purely brilliant. While _Rebecca_ is just as well written, featuring some really beautiful paragraphs - especially when it comes to descriptions of nature -, the characters are just not that great. Both Maxim and Mrs de Winter are pretty flat and don’t evolve throughout the story (and I don’t care that Mrs de Winter _thinks_ she has evolved; she hasn’t). As for Rebecca, she just follows the stereotype of a psycho woman, and was probably a source of inspiration for _Gone Girl_.  
 
-From reading _Rebecca_ I learned that I can enjoy a good story but can be disappointed when there’s too much hype around a novel that is really not that great - even if well-plotted. From quoting _Jane Eyre_ and remembering the book I realised I _must_ just read it again. Now, _that_’s a transcendent book. 
+From reading _Rebecca_ I learned that I can enjoy a good story but can be disappointed when there’s too much hype around a novel that is really not that great - even if well-plotted. From quoting _Jane Eyre_ and remembering the book I realised I _must_ just read it again. Now, _that_’s a transcendent book.
