@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Reviewing the challenging <em>Ada or ardor</em>
+title: "Reviewing the challenging <em>Ada or ardor</em>"
 published: true
 ---
+
+
+![](https://photomallows.files.wordpress.com/2014/01/761.jpg)
 
 Published two weeks after his seventieth birthday, _Ada, or Ardor_ is one of Nabokov's greatest masterpieces, the glorious culmination of his career as a novelist. It tells a love story troubled by incest. But more: it is also at once a fairy tale, epic, philosophical treatise on the nature of time, parody of the history of the novel, and erotic catalogue. _Ada, or Ardor_ is no less than the supreme work of an imagination at white heat (from Goodreads).
 
