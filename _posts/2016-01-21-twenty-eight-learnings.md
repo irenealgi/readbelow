@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Twenty-eight learnings from twenty-eight years of living
+title: "Twenty-eight learnings from twenty-eight years of living"
 published: true
 ---
+
+
+![](https://snap-photos.s3.amazonaws.com/img-thumbs/960w/51B7CD882C.jpg)
 
 1. Honesty does not equal unkindness. Be sincere, offer healthy and helpful criticism, but always be kind.
 2. Stick up for yourself but also stick up for others, especially your children, your more vulnerable friends and your family. Be strong when others can't. I've been the friend and the child others stuck up for, and I'm very, very grateful for that.
