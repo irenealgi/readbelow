@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src=¨https://c2.staticflickr.com/4/3685/20202807142_a8520720eb_b.jpg¨/>
+<img src="https://c2.staticflickr.com/4/3685/20202807142_a8520720eb_b.jpg"/>
 
 My name is Irene. Born in Spain, I've been living in London for the past two years. I like it here. It's not perfect, but what is? It's a powerful city, truly full of opportunities - if you know how and where to find them.
 
