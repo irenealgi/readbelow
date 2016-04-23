@@ -2,7 +2,7 @@
 layout: page
 title: Reading List
 ---
-<center>
+
 **2012**
 
 _Vanity Fair_,	William Makepeace Thackeray  
@@ -35,4 +35,4 @@ _The Particular Sadness of Lemon Cake_,	Aimee Bender
 _I Am the Messenger_,	Markus Zusak  
 
 
-</center>
+
