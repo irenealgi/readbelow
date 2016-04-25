@@ -37,9 +37,9 @@ _I Am the Messenger_,	Markus Zusak
 **2013**
 
 _The Perks of Being a Wallflower_, Stephen Chbosky 
-_The Handmaid's Tale_,	Margaret Atwood 
-_Apples_,	Richard Milward 
-_The Casual Vacancy_,	J.K. Rowling 
+_The Handmaid's Tale_,	Margaret Atwood  
+_Apples_,	Richard Milward  
+_The Casual Vacancy_,	J.K. Rowling  
 _The Girls of Slender Means_,	Muriel Spark 
 _The Bookshop_,	Penelope Fitzgerald 
 _The Silver Linings Playbook_,	Matthew Quick 
