@@ -38,32 +38,32 @@ _I Am the Messenger_,	Markus Zusak
 
 _The Perks of Being a Wallflower_, Stephen Chbosky  
 _The Handmaid's Tale_,	Margaret Atwood   
-_Apples_,	Richard Milward   
-_The Casual Vacancy_,	J.K. Rowling   
-_The Girls of Slender Means_,	Muriel Spark  
-_The Bookshop_,	Penelope Fitzgerald 
-_The Silver Linings Playbook_,	Matthew Quick 
-_What I loved_,	Siri Hustvedt 
-_Scarlet_,	Marissa Meyer 
-_The gathering_,	Anne Enright 
-_A Home at the End of the World_,	Michael Cunningham 
-_La Carte et le Territoire_,	Michel Houellebecq  
-_Donde los Árboles cantan_,	Laura Gallego 
-_Enduring Love_,	Ian McEwan 
-_Questa storia_,	Alessandro Baricco 
-_Brave New World_,	Aldous Huxley 
-_The Museum of Innocence_,	Orhan Pamuk 
-_The Blind Assassin_,	Margaret Atwood 
-_El hombre sentimental_,	Javier Marías 
-_50 Sombras de Grey_,	E.L. James 
-_Uglies_,	Scott Westerfeld 
-_By Nightfall_,	Michael Cunningham 
-_The heart is a lonely hunter_,	Carson McCullers 
-_El curioso caso del perro a medianoche_,	Mark Haddon  
-_The Sense of an Ending_,	Julian Barnes 
-_In One Person_, John Irving 
-_The Little Stranger_,	Sarah Waters 
-_Gone Girl_,	Gillian Flynn 
-_El cel de Lisboa_,	Marina Rubio i Martori 
-_The sorrows of an American_,	Siri Hustvedt 
+_Apples_,	Richard Milward    
+_The Casual Vacancy_,	J.K. Rowling    
+_The Girls of Slender Means_,	Muriel Spark    
+_The Bookshop_,	Penelope Fitzgerald  
+_The Silver Linings Playbook_,	Matthew Quick  
+_What I loved_,	Siri Hustvedt  
+_Scarlet_,	Marissa Meyer  
+_The gathering_,	Anne Enright  
+_A Home at the End of the World_,	Michael Cunningham  
+_La Carte et le Territoire_,	Michel Houellebecq   
+_Donde los Árboles cantan_,	Laura Gallego  
+_Enduring Love_,	Ian McEwan  
+_Questa storia_,	Alessandro Baricco  
+_Brave New World_,	Aldous Huxley  
+_The Museum of Innocence_,	Orhan Pamuk  
+_The Blind Assassin_,	Margaret Atwood  
+_El hombre sentimental_,	Javier Marías   
+_50 Sombras de Grey_,	E.L. James  
+_Uglies_,	Scott Westerfeld  
+_By Nightfall_,	Michael Cunningham  
+_The heart is a lonely hunter_,	Carson McCullers  
+_El curioso caso del perro a medianoche_,	Mark Haddon   
+_The Sense of an Ending_,	Julian Barnes  
+_In One Person_, John Irving  
+_The Little Stranger_,	Sarah Waters  
+_Gone Girl_,	Gillian Flynn  
+_El cel de Lisboa_,	Marina Rubio i Martori  
+_The sorrows of an American_,	Siri Hustvedt  
 
