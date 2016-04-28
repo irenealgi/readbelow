@@ -24,5 +24,8 @@ Stuff I read and write about:
 - Lifestyle(s)
 - Startups & Tech 
 
-I don't write about these, but also love them: my partner, my family, my friends, my cat and my cup of coffee. Nah, scratch that. _Not_ my cat.
+
+**CONTACT**
+
+Getting in touch is easy - just email me at irenealgi@gmail.com
 
