@@ -5,13 +5,13 @@ title: About
 
 <img src="https://c2.staticflickr.com/4/3685/20202807142_a8520720eb_b.jpg"/>
 
-My name is Irene. Born in Spain, I've been living in London for the past two years. I like it here. It's not perfect, but what is? It's a powerful city, truly full of opportunities - if you know how and where to find them.
+Hi, I'm Irene. 
 
-I did English at university. I know, not very original, but being Spanish I'm hoping it'll give me a couple of brownie points. Then I went on to do an MA in Publishing, which _is_ original and very niche, just not very useful. 
+Born in Spain, I've been living in London for the past two years. I like it here. It's not perfect, but what is? It's a powerful city, truly full of opportunities - if you know how and where to find them.
 
-I did my fair share of assisting publishers, copywriting books on interiorism - someone had to do it - and freelancing. I also worked as a barista when I first arrived in London; it paid the rent and showed me that I _can_ work with my hands - I'm just not very good at it. 
+I did English at university and an MA in Publishing. I've done my fair share of assisting publishers, copywriting books on interiorism and freelancing. I even worked as a barista!  
 
-Now I work as a Content Editor and Community Manager for a London tech startup. I kind of love it.
+Now I'm the Content Editor at Onfido. I kind of love it.
 
 But most of all, I love reading and writing. Always have, always will. 
 
