@@ -85,8 +85,8 @@ _The misunderstanding_,	Irène Némirovsky
 _The Buddha in the Attic_,	Julie Otsuka  
 _The shock of the fall_,	Nathan Filer  
 _Under the skin_,	Michel Faber  
-_Black Mamba_	
-_Bound to secrecy_,	Vamba Sherif  
+_Black Mamba_  	
+_Bound to secrecy_,	Vamba Sherif    
 
 **2013**
 
