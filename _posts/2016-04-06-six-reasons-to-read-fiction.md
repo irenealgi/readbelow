@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the joys of reading fiction
+title: 6 reasons why reading fiction is worth your while
 published: true
 ---
 
