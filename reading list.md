@@ -67,3 +67,46 @@ _Gone Girl_,	Gillian Flynn
 _El cel de Lisboa_,	Marina Rubio i Martori  
 _The sorrows of an American_,	Siri Hustvedt  
 
+**2014**
+
+_We Need to Talk About Kevin_,	Lionel Shriver  
+_Estupor y temblores_,	Amélie Nothomb   
+_Miss Pettigrew Lives For A Day_,	Winifred Watson  
+_The Years_,	Virginia Woolf  
+_Cress (The Lunar Chronicles, #3)_,	Marissa Meyer  
+_Goodbye Tsugumi_,	Banana Yoshimoto  
+_Las vidas privadas de Pippa Lee_,	Rebecca Miller  
+_Before I go to sleep_,	S.J. Watson  
+_The Cuckoo's Calling_,	Robert Galbraith  
+_Sweet tooth_,	Ian McEwan  
+_Every Day_,	David Leviathan  
+_Z: Zelda Fitzgerald_,	Therese Anne Fowler  
+_One step too far_,	Tina Seskis  
+_Annabel_,	Kathleen Winter  
+_The girl with all the gifts_,	M.R. Carey  
+_Jack_,	A.M Homes  
+_The Fault in Our Stars_,	John Green  
+_The Summer Without Men_,	Siri Hustvedt  
+_The Spectacular Now_,	Tim Tharp  
+_The Illusion of Separateness_,	Simon Van Booy  
+_The Woman in Black_,	Susan Hill  
+_Metroland_,	Julian Barnes  
+_White Horse_,	Yan Ge  
+_Thirst for Love_,	Yukio Mishima  
+_Stoner_,	John Williams  
+_The End of the Affair_,	Graham Greene  
+_You're not proper_,	Tariq Mehmood  
+_The silent striker_,	Peter Khalu  
+_We are all completely beside ourselves_,	Karen Joy Fowler  
+_The Virgins_,	Pamela Erens  
+_If I stay_,	Gayle Forman  
+_Where she went_,	Gayle Forman  
+_Brewster_,	Mark Slouka  
+_Being Me_,	Peter Khalu  
+_The misunderstanding_,	Irène Némirovsky  
+_The Buddha in the Attic_,	Julie Otsuka  
+_The shock of the fall_,	Nathan Filer  
+_Under the skin_,	Michel Faber  
+_Black Mamba_	
+_Bound to secrecy_,	Vamba Sherif  
+
