@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Who's writing below?
+title: 
 ---
 
 <center><img src="https://c2.staticflickr.com/4/3685/20202807142_a8520720eb_b.jpg" width="600"/></center>
 
+<br/>
+**Who's writing below?**
 <br/>
 Hi, I'm Irene. 
 
