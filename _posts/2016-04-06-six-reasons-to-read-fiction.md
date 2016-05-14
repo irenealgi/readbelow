@@ -40,7 +40,7 @@ Our ability to understand and foresee the consequences of what's happening in th
 
 The more fiction you read, the more experiences you learn about. It's like hearing about your neighbour having lung cancer after forty years of smoking, but multiplied by x1000. You get to read a lot about people making wrong decisions, and sometimes you may even learn from them.
 
-**Fiction pumps your capacity to imagine**
+**Fiction pumps up your capacity to imagine**
 
 There's a reason why every time a film adaptation comes out some readers respond to it furiously. When a reader grabs an unabridged text, it's just the original story and them. The author has written a story which they are reading and interpreting as they feel, as it speaks to _them_. But because each of us has a different experience based on our knowledge, understanding and perception of the world, each of us reads the same story differently.
 
