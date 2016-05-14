@@ -72,4 +72,4 @@ If I haven't lost you by this point, kudos to you for being this strong. Thank y
 
 That's one other thing I've learned from reading. You can slow down. You can enjoy the ride - quite literally, many times on a commute. You can even extend that ride so that the pleasure of reading lasts longer. Like when you pick a longer commute so that you can spend more quality time reading, because it's only on the tube - with no WIFI - that you are able to focus on that.
 
-Don't look at me like this. I know I'm not the only one.
+Don't look at me like that. I know I'm not the only one.
