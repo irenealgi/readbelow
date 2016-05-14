@@ -46,7 +46,7 @@ There's a reason why every time a film adaptation comes out some readers respond
 
 A film adaptation is just another reading of a story, someone else's interpretation - the film director's, the actors, even the make up artists. They usually involve many people, but not the reader. So when someone spots Emma Watson and claims she makes _the perfect Hermione Granger_, the reader feels cheated. Because that's not how _they_ imagined her to be.
 
-We live in a world where little is left to the imagination - from clear images of far away wars to TV shows featuring forensic doctors and porn (not necessarily at the same time, but maybe) -, and while there's nothing wrong with that, it's ruining our ability to imagine _things_. Last time I checked, _imagining_ and _creating_ went hand in hand. If we lose our ability to imagine, we lose our ability to create new things. We lose our ability to move forward.
+We live in a world where little is left to the imagination - from clear images of faraway wars to TV shows featuring forensic doctors and porn (not necessarily at the same time, but maybe) -, and while there's nothing wrong with that, it's ruining our ability to imagine _things_. Last time I checked, _imagining_ and _creating_ went hand in hand. If we lose our ability to imagine, we lose our ability to create new things. We lose our ability to move forward.
 
 **Fiction improves your use of language**
 
