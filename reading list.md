@@ -25,7 +25,7 @@ _Voyage in the Dark_, Jean Rhys
 _The Aftermath_, Rhidian Brook  
 _Wonder_, R.J. Palacio  
 _Twenty Thousand Streets Under the Sky_, Patrick Hamilton  
-_Breaking Away_, Anna Gavald:%s/$/*/ga  
+_Breaking Away_, Anna Gavalda  
 _The Tiny Wife_, Andrew Kaufman  
 _Me and You_, Niccolò Ammaniti  
 _Academy Street_, Mary Costello  
