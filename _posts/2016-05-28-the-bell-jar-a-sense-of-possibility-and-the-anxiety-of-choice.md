@@ -14,7 +14,7 @@ Sylvia Plath was one of the most remarkable poets of her time; she was also a wi
 
 I'm not used to reading biographies, fictional biographies or autobiographies. The genre in itself escapes me. I've read a couple of instances - _Z: Zelda Fitzgerald_ and _The Last Act of Love_ - but that's about it. _The Bell Jar_ is quite clearly a semi-autobiographical novel, and that made me a little bit uncomfortable. Esther is not entirely fictional, after all, but Plath's alter-ego, and reading her throughts feels like an intrusion - as a reader, you are invading her privacy. But she did leave the door open on her own account. Fortunately for me, I'm often comfortable with the uncomfortable; I don't let it get to me. So I read on.
 
-####A sense of possibility
+**A sense of possibility**
 
 “I remember one morning getting up at dawn. There was such a sense of possibility," says Meryl Streep as Clarissa Dalloway, reminiscing the old days when she was young and there was still so much for her to do, in _The Hours_. To me, it's that 'sense of possibility' that's slowly killing Esther Greenwood.
 
@@ -55,7 +55,7 @@ In his _The Paradox of Choice: Why More Is Less_, psychologist Barry Schwartz sa
 
 Poor Esther Greenwood, with all her whiteness, and her riches, and her beauty and her brightness, has no freaking idea what to do with her life. And that _is_ a real problem. 
 
-####A sense of doomness
+**A sense of doomness**
 
 You can't discuss _The Bell Jar_ and get away with not discussing depression, but I much prefer a sense of possibility to a sense of doomness, so I'll get this section through quickly before _I_ become depressed.
 
