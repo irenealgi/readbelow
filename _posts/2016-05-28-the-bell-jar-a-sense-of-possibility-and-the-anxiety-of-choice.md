@@ -55,9 +55,9 @@ In his _The Paradox of Choice: Why More Is Less_, psychologist Barry Schwartz sa
 
 Poor Esther Greenwood, with all her whiteness, and her riches, and her beauty and her brightness, has no freaking idea what to do with her life. And that _is_ a real problem. 
 
-**A sense of doomness**
+**A sense of doom**
 
-You can't discuss _The Bell Jar_ and get away with not discussing depression, but I much prefer a sense of possibility to a sense of doomness, so I'll get this section through quickly before _I_ become depressed.
+You can't discuss _The Bell Jar_ and get away with not discussing depression, but I much prefer a sense of possibility to a sense of doom, so I'll get this section through quickly before _I_ become depressed.
 
 >“I couldn’t see the point of getting up. I had nothing to look forward to.” 
 
