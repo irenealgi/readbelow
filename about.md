@@ -30,6 +30,7 @@ Stuff I read and write about:
 - Lifestyle(s)
 - Startups & Tech 
 
+<br>
 
 **CONTACT**
 
