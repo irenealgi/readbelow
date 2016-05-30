@@ -4,7 +4,7 @@ title: <em>The Bell Jar</em>, a sense of possibility and the anxiety of choice
 published: true
 ---
 
-<p align="center"><img src="http://cdn.theatlantic.com/static/mt/assets/hua_hsu/banner_sylvia%20plath%20flickr.jpg"/></p>
+<p align="center"><img src="http://16411-presscdn-0-65.pagely.netdna-cdn.com/wp-content/uploads/2015/10/plath1.jpg"/></p>
 
 I'm not obsessed with Sylvia Plath's _The Bell Jar_, but I liked it. I enjoyed it. I didn't find it boring, or dull. It's got some lines of pure beauty and brilliance. I didn't adore Esther Greenwood, and I didn't _get her_; I've never been in her shoes, literally or otherwise. And yet I think it does offer some insight into what white, middle-class, young girls must have been through during the 50s and 60s in the US.
 
