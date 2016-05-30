@@ -69,7 +69,7 @@ And then her condition slowly deteriorates. She comes down with food poisoning a
 
 >"If you expect nothing from somebody you are never disappointed." 
 
-To be fair, none of it is much of a big deal, but out together, one after the other, the events sort of explain why Esther would spiral down into a depression. She's disappointed and upset. 
+To be fair, none of these are much of a big deal, but put together, one after the other, the events sort of explain why Esther would spiral down into a depression. She's disappointed and upset. 
 
 >“I felt myself melting into the shadows like the negative of a person I'd never seen before in my life.” 
 
