@@ -15,7 +15,9 @@ _To sell is human_, Daniel H. Pink
 _Write_, The Guardian  
 _Northanger Abbey_, Jane Austen  
 _The News_, Alain de Botton  
-_Brooklyn_, Colm Tóibín  
+_Brooklyn_, Colm Tóibín    
+_Outliers_, Malcom Gladwell  
+_The Bell Jar_, Sylvia Plath  
 
 **2015**
 
