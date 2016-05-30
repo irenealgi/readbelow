@@ -23,10 +23,10 @@ I'm not used to reading biographies, fictional biographies or autobiographies. T
 We like to criticise the poor, white little rich girl, and I guess I can't blame the less priviledged for feeling that way. Esther can be, at times, incredibly annoying. She's beautiful, she's white, she's very bright and has earned a scholarship. At the start of the novel, she's having a blast in New York City, living in a hotel, learning the ropes as an intern at a cool fashion magazine and going to parties. Now there's a terrible way to spend the summer. She even has a boy-friend who seems to be quite fine - educated, handsome, studying to become a doctor. Yet she whines so much. She's never content. She's never happy. Nothing is ever quite right. It's hard for the contemporary reader to understand her, but that's only because many of us are wearing exactly the same shoes. And it feels uncomfortable. 
 
 >"When they asked me what I wanted to be I said I didn’t know.
-<p>
-"Oh, sure you know," the photographer said.
-<p>
-"She wants," said Jay Cee wittily, "to be everything." 
+>
+>"Oh, sure you know," the photographer said.
+>
+>"She wants," said Jay Cee wittily, "to be everything." 
 
 Esther Greenwood wants to be everything, and that's only because she knows she _could_ be anything. Yet she can't be _everything_. She can't be a writer, and an editor, and an astronaut, and a loving housewife and mother at the same time. There is such a sense of possibility, and yet _that's_ not a possibility. She must make a choice. 
 
