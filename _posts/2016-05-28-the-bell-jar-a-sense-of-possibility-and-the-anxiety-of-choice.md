@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <em>The Bell Jar</em>, a sense of possibility and the anxiety of choice
+title: <em>The Bell Jar</em>, a sense of possibility and the anxiety caused by choice
 published: true
 ---
 
