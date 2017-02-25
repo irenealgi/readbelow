@@ -1,10 +1,10 @@
 ---
 layout: post
-title: <em>A Little Life</em>: The Good, The Bad and The Ugly
+title: "<em>A Little Life</em>: The Good, The Bad and The Ugly"
 published: true
 ---
 
-<p align="center"><img src="https://unsplash.com/?photo=K2u71wv2eI4"/></p>
+<p align="center"><img src="https://images.unsplash.com/photo-1481437642641-2f0ae875f836"/></p>
 
 Let’s face it: there’s nothing little, or small, about *A Little Life*. Some have called it a magnificent masterpiece while others complain about how it’s overwrought and trying too hard to impress. Some have cried several times while reading, deeply sympathising with its characters, even to the point of thinking of them as real people they’ve been watching from afar, and have experienced this novel in such a way that it has transcended the realm of fiction and touched them in all the sensitive places. It’s also a triggering book, one that makes you think of other people you know or yourself. Yet others have found its plot and characters too exaggerated and melodramatic, manipulative and impossible to believe. 
 
