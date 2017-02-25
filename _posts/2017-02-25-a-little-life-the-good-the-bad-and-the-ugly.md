@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "<em>A Little Life</em>: The Good, The Bad and The Ugly"
+title: <em>A Little Life</em>: The Good, The Bad and The Ugly
 published: true
 ---
 
-<p align="center"><img src="https://images.unsplash.com/photo-1481437642641-2f0ae875f836"/></p>
+<p align="center"><img src="https://unsplash.com/?photo=K2u71wv2eI4"/></p>
 
 Let’s face it: there’s nothing little, or small, about *A Little Life*. Some have called it a magnificent masterpiece while others complain about how it’s overwrought and trying too hard to impress. Some have cried several times while reading, deeply sympathising with its characters, even to the point of thinking of them as real people they’ve been watching from afar, and have experienced this novel in such a way that it has transcended the realm of fiction and touched them in all the sensitive places. It’s also a triggering book, one that makes you think of other people you know or yourself. Yet others have found its plot and characters too exaggerated and melodramatic, manipulative and impossible to believe. 
 
@@ -18,7 +18,7 @@ I usually don’t make lists about what I liked and what I didn’t like about a
 <br />
 <br />
 
-###Things I Liked About _A Little Life_
+### Things I Liked About _A Little Life_
 
 **Character Development**
 
@@ -49,7 +49,7 @@ It sounds like a contradiction, and it is, but as bleak – and dull – as *A L
 Yanagahara has said in numerous occasions that she was not planning on making her story believable, but rather she aimed to test the limits of what a person, and a human body, could actually handle. She succeeds in her telling of this story, a tale of rags-and-riches that watches a young man with literally nothing – no family, hardly no education, no self-esteem and no money – turn into a successful lawyer. 
 
 <br />
-###Things I didn’t like about _A Little Life_
+### Things I didn’t like about _A Little Life_
 
 **It’s All Villains**
 
@@ -108,7 +108,7 @@ This book would fail the Bechdel test miserably. I wish I could expand on the qu
 * JB, the artist, comes up with several series of paintings through the years, all of them focusing on his college friends, mostly Jude. Because Jude is awesome even if he can’t see that. Rinse and repeat several times. JB is an experienced painter – by this I mean he actually travels, meets all sorts of people, experiements with all sorts of things – who always comes back to the same themes, because otherwise he would actually be a cool, believable character.  
 
 <br />
-###FINAL THOUGHTS
+### FINAL THOUGHTS
 
 I liked *A Little Life*. I know it’s got its shortcomings, but I can also find a lot of value in it. And I think it’s worth giving it a go if you are able to deal with the themes – if you’re especially sensitive to topics such as pedophilia, sexual abuse, suicidal thinking, self-harming and homosexuality, I suggest you stay away from this book. If you think these won’t pose a problem, however, go ahead and read it. It will touch in a way few novels do.
 
