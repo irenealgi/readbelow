@@ -2,6 +2,13 @@
 layout: page
 title: Reading List
 ---
+**2017**
+
+_The power of now_,	Eckhart Tolle  
+_The gifts of imperfection_,	René Brown  
+_Feeling Good: The New Mood Therapy_,	David Burns  
+_Love yourself like your life depends on it_,	Kamal Ravikant  
+
 **2016**
 
 _Winter_, Marissa Meyer  
@@ -18,6 +25,19 @@ _The News_, Alain de Botton
 _Brooklyn_, Colm Tóibín    
 _Outliers_, Malcom Gladwell  
 _The Bell Jar_, Sylvia Plath  
+_Bonjour Tristesse_,	Françoise Sagan  
+_Zero degrees of empathy_, Simon Baron-Cohen      	
+_Crossing to Safety_, Wallace Stegner   	
+_To kill a mockingbird_,	Harper Lee  
+_Room_,	Emma Donoghue  
+_Time in Fiction_    	
+_Thirteen reasons why_, Jay Asher  	
+_Sapiens: A Brief History of Humankind_, Yuval Noah Harari  	
+_Growth Hacker_,	Ryan Holiday  
+_Harry Potter and the Cursed Child_,	J.K Rowling  
+_A little life_,	Hanya Yanagihara  
+_Thinking fast and slow_,	Daniel Kahneman  
+_The Reader_,	Bernhard Schlink  
 
 **2015**
 
