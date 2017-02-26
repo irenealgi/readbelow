@@ -22,13 +22,13 @@ I usually don’t make lists about what I liked and what I didn’t like about a
 
 **Character Development**
 
-Some people say that the characters are underdeveloped and flat, and that can be true at times – as I said previously, it’s a novel about binaries, yet in real life everything and everyone fall among various shades of grey –, but for the most part I believed them and I thought of them as real people. Jude in particular, with all his goodness but also his selfishness, is really well written. Now that I think about it, he’s probably the only grey character in the entire novel: he’s mostly a good person, but he’s also incredibly flawed (whether he has the *right *to be flawed is another story).
+Some people say that the characters are underdeveloped and flat, and that can be true at times – as I said previously, it’s a novel about binaries, yet in real life everything and everyone fall among various shades of grey –, but for the most part I believed them and I thought of them as real people. Jude in particular, with all his goodness but also his selfishness, is really well written. Now that I think about it, he’s probably the only grey character in the entire novel: he’s mostly a good person, but he’s also incredibly flawed (whether he has the *right* to be flawed is another story).
 
 **The Focus on Friendship**
 
 >"Wasn’t friendship its own miracle, the finding of another person who made the entire lonely world seem somehow less lonely?" 
 
-*A Little Life* begins exploring the intricacies of friendship between four characters, but soon moves its focus to the relationship between Willem and Jude. Regardless of its main focus, the majority of the characters in this book are linked to each other in terms of friendship. Willem, Malcom and JB are Jude’s best friends. Andy, Jude’s lifelong doctor, is also one of his best friends. The neighbour, Richard, is also an increasingly close friend of Jude’s. Harold, who later becomes Jude’s adoptive father, starts out as a professor, then mentor, then, finally, a friend who invites him over for dinner. While there is some coupling and some romantic love in *A Little Life*, there’s hardly no space left for that sort of relationship: *A Little Life *is a novel about friendship and, to a lesser extent, family, in all its complexity.
+*A Little Life* begins exploring the intricacies of friendship between four characters, but soon moves its focus to the relationship between Willem and Jude. Regardless of its main focus, the majority of the characters in this book are linked to each other in terms of friendship. Willem, Malcom and JB are Jude’s best friends. Andy, Jude’s lifelong doctor, is also one of his best friends. The neighbour, Richard, is also an increasingly close friend of Jude’s. Harold, who later becomes Jude’s adoptive father, starts out as a professor, then mentor, then, finally, a friend who invites him over for dinner. While there is some coupling and some romantic love in *A Little Life*, there’s hardly no space left for that sort of relationship: *A Little Life* is a novel about friendship and, to a lesser extent, family, in all its complexity.
 
 **The Writing is Good**
 
@@ -40,7 +40,7 @@ I also found some of his paragraphs very insightful, delving into the power of h
 
 **A Slow Page-Turner**
 
-It sounds like a contradiction, and it is, but as bleak – and dull – as *A Little Life* is, every day I went back to reading a few pages, and I did so with gladness. I wouldn’t go as far as to say that I couldn’t put it down, as that’s very rare these days (at least with my reading choices), but I didn’t have to force myself to read – and, yes, I do have to do that sometimes. *A Little Life *is a strangely enjoyable read for many, probably due to all the mystery that surrounds Jude during the first half, and the way his backstory is covered – *uncovered* – in little chunks throughout. By the time you know most of what’s happened to him, you’re too invested in the whole thing to call it quits.
+It sounds like a contradiction, and it is, but as bleak – and dull – as *A Little Life* is, every day I went back to reading a few pages, and I did so with gladness. I wouldn’t go as far as to say that I couldn’t put it down, as that’s very rare these days (at least with my reading choices), but I didn’t have to force myself to read – and, yes, I do have to do that sometimes. *A Little Life* is a strangely enjoyable read for many, probably due to all the mystery that surrounds Jude during the first half, and the way his backstory is covered – *uncovered* – in little chunks throughout. By the time you know most of what’s happened to him, you’re too invested in the whole thing to call it quits.
 
 **A Beautiful, Dark Dickensian Novel**
 
@@ -69,7 +69,7 @@ Ana, the social worker who not long after meeting Jude dies of cancer, is our fi
 
 I mean, there’s as much unconditional love in *A Little Life *as there is unacceptable levels of hatred and despair. It’s a novel of extremes.
 
-And it borders on unrealistic. Or unbelievable. As a reader, I need to *believe *the story you’re telling me – if you don’t get me to believe, you’ve lost me. I didn’t buy the extremes in *A Little Life*, and cinism took over my experience. Yanagihara lost me there. She just did.
+And it borders on unrealistic. Or unbelievable. As a reader, I need to *believe* the story you’re telling me – if you don’t get me to believe, you’ve lost me. I didn’t buy the extremes in *A Little Life*, and cinism took over my experience. Yanagihara lost me there. She just did.
 
 **Things Happen for No Reason**
 
@@ -89,7 +89,7 @@ And then people die in car accidents so that you, the reader, can cry your eyes 
 
 Like, where? Where? 
 
-This book would fail the Bechdel test miserably. I wish I could expand on the quality of female characters in *A Little Life* – given that I can’t comment on the quantity – but, I think there’s only three or four female characters *in the entire novel *and they are all wives except for the social worker, who is a lesbian so I guess that makes her less of a woman (?), hence why she’s given a few lines. Not many lines though, just a few – I mean, she still owns a vagina, for God’s sake!
+This book would fail the Bechdel test miserably. I wish I could expand on the quality of female characters in *A Little Life* – given that I can’t comment on the quantity – but, I think there’s only three or four female characters *in the entire novel * and they are all wives except for the social worker, who is a lesbian so I guess that makes her less of a woman (?), hence why she’s given a few lines. Not many lines though, just a few – I mean, she still owns a vagina, for God’s sake!
 
 **Why So Long?**
 
