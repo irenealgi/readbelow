@@ -14,7 +14,7 @@ Born in Spain, I've been living in London for the past two years. I like it here
 
 I did English at university and an MA in Publishing. I've done my fair share of assisting publishers, copywriting books on interiorism and freelancing. I even worked as a barista!  
 
-Now I'm the Content Editor and Community Manager at <a href="https://onfido.com/" target="_blank">Onfido</a>. I kind of love it.
+Now I'm the Campaign Manager at <a href="https://onfido.com/" target="_blank">Onfido</a>. I kind of love it.
 
 But most of all, I love reading and writing. Always have, always will.
 
