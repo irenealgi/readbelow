@@ -30,4 +30,4 @@ Stuff I read and write about:
 
 **CONTACT**
 
-Getting in touch is easy - just email me at <irenealgi@gmail.com>
+Getting in touch is easy – just email me at <irenealgi@gmail.com>
