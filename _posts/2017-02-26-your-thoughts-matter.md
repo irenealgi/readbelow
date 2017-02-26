@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What you <em>think</em> matters"
+title: "What you think <em>matters</em>"
 published: true
 ---
 <p align="center"><img src="https://images.unsplash.com/photo-1443528130140-4f7ea31b2b57"/></p>
