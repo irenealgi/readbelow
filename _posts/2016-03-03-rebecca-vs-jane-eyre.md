@@ -6,7 +6,7 @@ published: true
 
 
 ![](http://attpac-website-assets.s3.amazonaws.com/assets/Image/2689.jpg)
-
+<br />
 I read _Jane Eyre_, by Charlotte Brönte, more than ten years ago, when I was still in high school. I remember not liking it very much, having a hard time sympathising with the heroine, finding the story slightly too sad and just pathetic (I recall writing an essay on how it reminded me of _Cinderella_, only a lot less glamorous). It was also way too long. Then I went on to study English at university; it turned out unattractive but bright _Jane Eyre_ was a favourite among most of my (female) peers. So witty, so strong, so self-possessed, ever so _right_ and bordering on moral perfection. On the contrary, I have always been a fan of crazy and passionate Catherine Earnshaw from _Wuthering Heights_, which could be considered as the ultimate antithesis of plain ol’ Jane. Truth be told, I never cared much for Jane, and not even when the novel turned out to be of compulsory reading on one of my courses did I attempt to re-reading it in its entirety. I just couldn’t be bothered.
 
 Still, I _have_ watched BBC’s film adaptation more times than I’d care to admit. I honestly have no idea how that happened; it was a recurrent show on Spanish TV, and they always had it on at times when I just had nothing else to do. So I know the story by heart, all of it. Jane Eyre, her evil aunt, the friend that dies when she’s at the orphanage (no cheating, her name was Helen). Then there’s Mr Rochester, Blanche (his soon-to-be fiance, or so we believe), Adele, who is Mr Rochester’s protegé and the reason he needs Jane in the first place. Yes, I swear I remembered all of these names - that’s what I use my precious memory capacity for.
