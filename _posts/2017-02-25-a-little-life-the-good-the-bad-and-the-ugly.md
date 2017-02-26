@@ -67,7 +67,7 @@ That’s ok, he eventually escapes again. And he hitchhikes his way to nowhere, 
 
 Ana, the social worker who not long after meeting Jude dies of cancer, is our first angel, but she’s not the last. There’s also the professor who adopts Jude by the time he’s 30, the awesome friends who love and cherish him so very much, the neighbour who also looks after Jude and becomes a dear friend of his and the most extraordinary, committed and dedicated doctor in the history of fiction – or, just the history of the world.
 
-I mean, there’s as much unconditional love in *A Little Life *as there is unacceptable levels of hatred and despair. It’s a novel of extremes.
+I mean, there’s as much unconditional love in *A Little Life* as there is unacceptable levels of hatred and despair. It’s a novel of extremes.
 
 And it borders on unrealistic. Or unbelievable. As a reader, I need to *believe* the story you’re telling me – if you don’t get me to believe, you’ve lost me. I didn’t buy the extremes in *A Little Life*, and cinism took over my experience. Yanagihara lost me there. She just did.
 
@@ -89,7 +89,7 @@ And then people die in car accidents so that you, the reader, can cry your eyes 
 
 Like, where? Where? 
 
-This book would fail the Bechdel test miserably. I wish I could expand on the quality of female characters in *A Little Life* – given that I can’t comment on the quantity – but, I think there’s only three or four female characters *in the entire novel * and they are all wives except for the social worker, who is a lesbian so I guess that makes her less of a woman (?), hence why she’s given a few lines. Not many lines though, just a few – I mean, she still owns a vagina, for God’s sake!
+This book would fail the Bechdel test miserably. I wish I could expand on the quality of female characters in *A Little Life* – given that I can’t comment on the quantity – but, I think there’s only three or four female characters *in the entire novel* and they are all wives except for the social worker, who is a lesbian so I guess that makes her less of a woman (?), hence why she’s given a few lines. Not many lines though, just a few – I mean, she still owns a vagina, for God’s sake!
 
 **Why So Long?**
 
