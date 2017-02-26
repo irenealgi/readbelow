@@ -6,7 +6,7 @@ published: true
 
 
 ![](https://snap-photos.s3.amazonaws.com/img-thumbs/960w/51B7CD882C.jpg)
-
+<br />
 1. Honesty does not equal unkindness. Be sincere, offer healthy and helpful criticism, but always be kind.
 2. Stick up for yourself but also stick up for others, especially your children, your more vulnerable friends and your family. Be strong when others can't. I've been the friend and the child others stuck up for, and I'm very, very grateful for that.
 3. It's fine to be demanding of others, as long as you are just as demanding (or more!) of yourself.
