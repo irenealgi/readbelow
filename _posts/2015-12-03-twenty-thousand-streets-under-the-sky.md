@@ -4,7 +4,7 @@ title: A review of <em>Twenty thousand streets under the sky</em>, a trilogy wri
 published: true
 ---
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Tottenham_Court_road_in_London_1927.jpg"/></p>
-
+<br />
 I love going to the library. I love going to _my_ library. See, there’s this shelf, in my library, where all the classics are stored. Jane Austen and Mr. Dickens are there, and so is Monsieur Proust. But here’s the thing about this shelf: Jean Rhys, Anaïs Nin and Françoise Sagan are there, too. So is Patrick Hamilton. And this is really cool, because I’m discovering many, many good ‘old’ authors thanks to this shelf.
 
 
