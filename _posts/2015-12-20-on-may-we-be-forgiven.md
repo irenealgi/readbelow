@@ -6,6 +6,7 @@ published: true
 
 <p align="center"><img src="https://images.unsplash.com/photo-1457523826051-6f3e5aeb89b9?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=03d292af688462af5ea190b4e2d7a73b"/></p>
 <br />
+<br />
 It took me over twenty days of my precious life to finish this book. During those twenty days - and then some -, people would ask me: 'oh, so what are you reading now?' And I would say, '_May we be forgiven_, by AM Homes. Not sure I'm going to forgive her.' People found it funny. I meant it as a joke, but I was being serious. I have no regrets though, I'm happy that I read this. I'm glad that, finally, interesting, thought-provoking, not-wow-not-meh-not-ugh books are crawling back to my shelves. Makes my reading life a lot more exciting.
 
 
