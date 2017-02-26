@@ -10,7 +10,7 @@ $base-font-weight:       400;
 $small-font-size:        $base-font-size * 0.875;
 $base-line-height:       1.5;
 $blockquote-font-family: serif;
-$blockquote-font-size:   17px;
+$blockquote-font-size:   18px;
 $spacing-unit:           30px;
 $brand-color:            #8269A4;
 
@@ -40,6 +40,10 @@ dl, dd, ol, ul, figure {
 html,
 body {
   height: 100%;
+}
+
+p {
+  line-height: 30px;
 }
 
 body {
