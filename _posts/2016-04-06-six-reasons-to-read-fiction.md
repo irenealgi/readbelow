@@ -6,6 +6,7 @@ published: true
 
 <img src="https://c2.staticflickr.com/6/5722/20707210582_8af48942c7_b.jpg"/>
 <br />
+
 I was by no means the brightest child in my class, but my parents claim I mastered two things before anyone else in my year: shoe-lacing and reading. Apparently I was tying my friend's shoes by the age of three, and could read at normal speed by the age of seven. Since 80% of the shoes in my rather impressive collection _have_ laces, and books have been my favourite companions for more than two decades, I'd say my much younger self was onto something here.
 
 The first novel I ever read on my own was one I had already _listened to_, as my mother had read it to me aloud before. It was a lovely story about the <a href="https://www.amazon.es/lluna-fill-Barco-Vapor-Azul/dp/8476296770/277-2040750-0621726?ie=UTF8&*Version*=1&*entries*=0" target="_blank">Moon wanting to have a child </a>. Yes, only those able to read in Catalan will be able to enjoy it – I'm genuinely sorry. I don't know what I liked so much about it – certainly it wasn't my desire to have children! – but that little book has stuck to me like no other. I was six.
