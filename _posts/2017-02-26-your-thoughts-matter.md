@@ -6,7 +6,6 @@ published: true
 <p align="center"><img src="https://images.unsplash.com/photo-1443528130140-4f7ea31b2b57"/></p>
 
 <br />
-<br />
 
 Last night I had a thought. There's nothing peculiar about that – I have thoughts _all the time_. Thinking is like breathing; you just can't stop it. But this thought was different, this thought was worth thinking about. Here's what I thought:
 
