@@ -1,9 +1,8 @@
 ---
 title: On women’s fiction
-date: '2016-03-13T00:00:00.000+00:00'
+date: 2016-03-13 00:00:00 Z
 layout: post
 ---
-
 
 ![](https://snap-photos.s3.amazonaws.com/img-thumbs/960w/TFGZBZ1EEV.jpg)
 
