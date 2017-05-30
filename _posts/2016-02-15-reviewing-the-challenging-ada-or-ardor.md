@@ -1,9 +1,8 @@
 ---
+title: Reviewing the challenging <em>Ada or ardor</em>
+date: 2016-02-15 00:00:00 Z
 layout: post
-title: "Reviewing the challenging <em>Ada or ardor</em>"
-published: true
 ---
-
 
 <p align="center"><img src="https://photomallows.files.wordpress.com/2014/01/761.jpg"/></p>
 <br />

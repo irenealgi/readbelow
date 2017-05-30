@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "<em>A Little Life</em>: The Good, The Bad and The Ugly"
-published: true
+date: 2017-02-25 00:00:00 Z
+layout: post
 ---
 
 <p align="center"><img src="https://images.unsplash.com/photo-1481437642641-2f0ae875f836"/></p>

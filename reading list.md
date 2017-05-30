@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Reading List
+layout: page
 ---
+
 **2017**
 
 _The power of now_,	Eckhart Tolle  

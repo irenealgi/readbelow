@@ -1,7 +1,7 @@
 ---
-layout: post
 title: 6 reasons why reading fiction is worth your while
-published: true
+date: 2016-04-06 00:00:00 Z
+layout: post
 ---
 
 <img src="https://c2.staticflickr.com/6/5722/20707210582_8af48942c7_b.jpg"/>

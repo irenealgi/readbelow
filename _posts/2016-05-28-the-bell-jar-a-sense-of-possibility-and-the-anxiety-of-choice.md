@@ -1,7 +1,7 @@
 ---
+title: "<em>The Bell Jar</em>, a sense of possibility and the anxiety caused by choice"
+date: 2016-05-28 00:00:00 Z
 layout: post
-title: <em>The Bell Jar</em>, a sense of possibility and the anxiety caused by choice
-published: true
 ---
 
 <p align="center"><img src="http://16411-presscdn-0-65.pagely.netdna-cdn.com/wp-content/uploads/2015/10/plath1.jpg"/></p>

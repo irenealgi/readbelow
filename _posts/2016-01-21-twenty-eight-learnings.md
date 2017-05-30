@@ -1,9 +1,8 @@
 ---
+title: Twenty-eight learnings from twenty-eight years of living
+date: 2016-01-21 00:00:00 Z
 layout: post
-title: "Twenty-eight learnings from twenty-eight years of living"
-published: true
 ---
-
 
 ![](https://snap-photos.s3.amazonaws.com/img-thumbs/960w/51B7CD882C.jpg)
 <br />

@@ -1,9 +1,8 @@
 ---
+title: Minor similarities & major differences in <em>Rebecca</em> and <em>Jane Eyre</em>
+date: 2016-03-03 00:00:00 Z
 layout: post
-title: "Minor similarities & major differences in <em>Rebecca</em> and <em>Jane Eyre</em>"
-published: true
 ---
-
 
 ![](http://attpac-website-assets.s3.amazonaws.com/assets/Image/2689.jpg)
 <br />

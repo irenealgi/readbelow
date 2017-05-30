@@ -1,8 +1,10 @@
 ---
+title: A review of <em>Twenty thousand streets under the sky</em>, a trilogy written
+  in 1929
+date: 2015-12-03 00:00:00 Z
 layout: post
-title: A review of <em>Twenty thousand streets under the sky</em>, a trilogy written in 1929
-published: true
 ---
+
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Tottenham_Court_road_in_London_1927.jpg"/></p>
 <br />
 <br />

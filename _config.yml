@@ -1,17 +1,25 @@
+---
 title: Read Below
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: irenealgi@gmail.com
 description: Literature, publishing & many other matters.
-url: "http://readbelow.net"
-
+url: http://readbelow.net
 markdown: kramdown
 permalink: :title
-
 sass:
   style: :compressed
   sass_dir: assets/sass
-
 paginate: 1
 gems:
-  - jekyll-paginate
-
-exclude: [Guardfile, .gitignore, README.md]
+- jekyll-paginate
+exclude:
+- Guardfile
+- ".gitignore"
+- README.md
