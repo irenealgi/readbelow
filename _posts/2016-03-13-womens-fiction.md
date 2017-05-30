@@ -5,6 +5,7 @@ layout: post
 ---
 
 ![](https://snap-photos.s3.amazonaws.com/img-thumbs/960w/TFGZBZ1EEV.jpg)
+<br />
 
 Wikipedia defines *Women’s Fiction* as an umbrella term for women-centered books that focus on women's life experiences and are marketed to female readers; it’s a category that includes many mainstream novels. So, to make this clearer, the women’s fiction category is for:
 
@@ -56,9 +57,7 @@ The following books, however, could be considered women’s fiction:
 
 As you can see from the list above, whatever falls under the category is just as heterogeneous as whatever falls outside the category. Reading it again, I can’t believe I put the experimental Mrs Dalloway next to gothic and dramatic *Jane Eyre*, sardonic *Pride and Prejudice*, funny and irreverent *Bridget Jones*, complex *The Hours*, cheesy and chaste *The Notebook* and racy *50 Shades of Grey* in the same sack. It makes no sense; welcome to discovery number one:
 
-<blockquote>
-<p>Women’s Fiction as a category makes no sense whatsoever.</p>
-</blockquote>
+> Women’s Fiction as a category makes no sense whatsoever.
 
 Which is why we have come up with a brilliant set of subcategories within the Women’s Fiction category:
 
@@ -72,17 +71,13 @@ Which is why we have come up with a brilliant set of subcategories within the Wo
 
 Which takes me to discovery number 2:
 
-<blockquote>
-<p>Women can read both general Literary or Commercial Fiction and Literary or Commercial Fiction for women; men can’t.</p>
-</blockquote>
+> Women can read both general Literary or Commercial Fiction and Literary or Commercial Fiction for women; men can’t.
 
 If anything, the book industry is excluding men rather than women by setting a category that will/should not appeal to them.
 
 But it could also be interpreted as:
 
-<blockquote>
-<p>Men read fiction targeted at people who can read; women read fiction targeted specifically at women.</p>
-</blockquote>
+> Men read fiction targeted at people who can read; women read fiction targeted specifically at women.
 
 Now, as much as it annoys me, I know there are sensible reasons behind these female-oriented categories; they just work. The truth is, women read more fiction than men, and organising fiction in understandable, relatively clear categories helps target and sell novels better. Women know what they want, and the easier you make it for them to get it, the more books you will sell. But as much as I want to be ok with this, I just can’t.
 
