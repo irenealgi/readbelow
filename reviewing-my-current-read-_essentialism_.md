@@ -12,7 +12,7 @@ How much can you get written in 20 minutes? Because that's all I got.
 
 I recommend writing on <a href="https://www.noisli.com/" target="_blank">Noisli</a>. I know, it's not really an editor, it's more like a website to listen to background noise, but they have this Markdown editor where you can simply write, and it saves it as you go along, and the background changes colours. And you would think it'd get on your nerves, but it doesn't. It's kind of relaxing. Just give it a go.
 
-In the meantime, I'll write about the book I'm still reading: *Essentialism*.
+In the meantime, I'll write about the book I'm still reading: <a href="https://www.goodreads.com/book/show/18077875-essentialism" target="_blank">*Essentialism: The Disciplined Pursuit of Less</a>.*
 
 *Essentialism* focuses on the art of living a productive life where you focus on what really matters, both at work and at home. Off the top of my hat, this means the following:
 
@@ -29,4 +29,3 @@ In the meantime, I'll write about the book I'm still reading: *Essentialism*.
 So, this is what I've learned so far! And I wrote this in 10 minutes. That wasn't too hard, was it? Ok, maybe it was a bit hard. Oh well.
 
 Tomorrow will be another day.
-
