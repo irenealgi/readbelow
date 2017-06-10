@@ -1,6 +1,6 @@
 ---
-title: The Power Of Knowing Who You Are
-date: '2017-06-02T22:51:57+00:00'
+title: Day 2 | The Power Of Knowing Who You Are
+date: 2017-06-02 22:51
 label: ''
 layout: post
 ---
