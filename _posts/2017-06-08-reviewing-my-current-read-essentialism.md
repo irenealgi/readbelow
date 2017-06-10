@@ -1,6 +1,6 @@
 ---
-title: 'Reviewing My Current Read: Essentialism'
-date: '2017-06-08T22:51:29+00:00'
+title: 'Day 8 | Reviewing My Current Read: Essentialism'
+date: 2017-06-08 22:51
 image/file_upload: []
 tag_list: []
 ---
