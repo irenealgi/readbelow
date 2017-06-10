@@ -1,9 +1,10 @@
 ---
-title: Words Before Bed
+title: Day 7 | Words Before Bed
 date: '2017-06-07T23:00:00+01:00'
 image/file_upload: []
 tag_list: []
 layout: post
+image: []
 ---
 
 
