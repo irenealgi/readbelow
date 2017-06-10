@@ -1,9 +1,10 @@
 ---
 date: '2017-06-01T08:37:00+00:00'
-title: 'A New Challenge: Writing Every Day'
+title: 'Day 0 | A New Challenge: Writing Every Day'
 image/file_upload: []
 tag_list: []
 layout: post
+image: []
 ---
 
 
