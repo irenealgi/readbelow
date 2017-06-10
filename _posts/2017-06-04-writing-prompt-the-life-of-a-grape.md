@@ -1,10 +1,11 @@
 ---
-title: 'Writing Prompt: The Life of a Grape'
+title: 'Day 4 | Writing Prompt: The Life of a Grape'
 date: '2017-06-04T23:40:00+01:00'
 image/file_upload:
 - "/uploads/2017/06/04/thomas-verbruggen-71575.jpg"
 tag_list: []
 layout: post
+image: []
 ---
 
 
