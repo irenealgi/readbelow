@@ -1,8 +1,8 @@
 ---
 title: Day 10 | Sleepiness Kills Creativy
 date: '2017-06-10T01:10:00+01:00'
+layout: post
 image: []
-tag_list: []
 ---
 
 

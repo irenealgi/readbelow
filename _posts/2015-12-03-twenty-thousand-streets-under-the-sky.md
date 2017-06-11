@@ -1,6 +1,5 @@
 ---
-title: A review of <em>Twenty thousand streets under the sky</em>, a trilogy written
-  in 1929
+title: A review of <em>Twenty thousand streets under the sky</em>, a trilogy written in 1929
 date: 2015-12-03 00:00:00 Z
 layout: post
 ---

@@ -1,8 +1,8 @@
 ---
 title: 'Day 8 | Reviewing My Current Read: Essentialism'
 date: 2017-06-08 22:51
+layout: post
 image/file_upload: []
-tag_list: []
 ---
 
 
