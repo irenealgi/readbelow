@@ -2,11 +2,9 @@
 date: '2017-06-01T08:37:00+00:00'
 title: 'Day 0 | A New Challenge: Writing Every Day'
 layout: post
-image: []
+image: "/assets/images/writing.jpg"
 ---
 
-
-![](/uploads/2017/06/01/thought-catalog-214785.jpg)
 
 I have been working out almost every day for the past 6 weeks. I say *almost* because sometimes I have skipped a day. Just a day. Not two days, just one. I work out for just about 30 minutes, during the weekends I do 45-60 minutes or I go for a cycle. I've never been the type of person who works out, by the way. This is not me being humble – that's just the plain truth. Ask any of my long-time friends, they will tell you how unfit I've always been. My thin build is just a happy coincidence.
 

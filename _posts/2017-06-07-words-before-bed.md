@@ -2,11 +2,9 @@
 title: Day 7 | Words Before Bed
 date: '2017-06-07T23:00:00+01:00'
 layout: post
-image: []
+image: "/assets/images/citylights.jpg"
 ---
 
-
-![](/uploads/2017/06/07/israel-sundseth-1683.jpg)
 
 Writing when you don't want to write. Like today. Tonight. I don't want to write tonight, but I skipped yesterday, and the day before yesterday, and so I now *have* to write something before it's too late and I find myself having a backlog of four texts. Let's keep it at three. Maybe I can do a couple tomorrow, and then another two on Friday. That would solve the problem. I'd be back to square one. That's doable.
 

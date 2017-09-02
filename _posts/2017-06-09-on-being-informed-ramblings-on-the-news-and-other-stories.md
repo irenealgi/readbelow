@@ -2,11 +2,9 @@
 title: 'Day 9 | On Being ''Informed'': Ramblings On The News and Other Stories'
 date: '2017-06-09T19:36:49+00:00'
 layout: post
-image: []
+image: "/assets/images/newspaper.jpg"
 ---
 
-
-![](/uploads/2017/06/09/olu-eletu-38647.jpg)
 
 Oh, being 'informed'.
 
@@ -45,4 +43,3 @@ The truth is, I know people who follow the news religiously, and I know people w
 So a while ago I stopped feeling shitty about my lack of interest in current matters, because most current matters will stop being current soon enough and will become irrelevant in no time. I much rather care about the things that have stood the test of time, events and people that have changed the course of history, the ones that belong with books and documentaries. So I read. I read fiction and non-fiction. I read about psychology, romance and history. I read and I learn, and *that* makes me more knowledgeable and – I'd like to think – a bit wiser.
 
 This was a long one, and I didn't know where it was going, but I quite like the destination I've reached.
-

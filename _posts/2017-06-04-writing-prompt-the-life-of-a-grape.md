@@ -2,11 +2,9 @@
 title: 'Day 4 | Writing Prompt: The Life of a Grape'
 date: '2017-06-04T23:40:00+01:00'
 layout: post
-image: []
+image: "/assets/images/grapes.jpg"
 ---
 
-
-![](/uploads/2017/06/04/thomas-verbruggen-71575.jpg)
 
 Of the 180 writing promps you can find [here](http://www.dailyteachingtools.com/journal-writing-prompts.html#1), I picked the one below:
 

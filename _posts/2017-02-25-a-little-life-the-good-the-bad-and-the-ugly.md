@@ -2,10 +2,9 @@
 title: "<em>A Little Life</em>: The Good, The Bad and The Ugly"
 date: 2017-02-25 00:00:00 Z
 layout: post
+image: "/assets/images/alittlelife.jpg"
 ---
 
-<p align="center"><img src="https://images.unsplash.com/photo-1481437642641-2f0ae875f836"/></p>
-<br />
 Let’s face it: there’s nothing little, or small, about *A Little Life*. Some have called it a magnificent masterpiece while others complain about how it’s overwrought and trying too hard to impress. Some have cried several times while reading, deeply sympathising with its characters, even to the point of thinking of them as real people they’ve been watching from afar, and have experienced this novel in such a way that it has transcended the realm of fiction and touched them in all their sensitive places. It’s also a triggering book, one that makes you think of other people you know, or even yourself. Yet others have found its plot and characters too exaggerated and melodramatic, manipulative and impossible to believe. 
 
 *A Little Life* is a divisive read for most due to the themes it touches upon: sexual abuse in childhood, trauma, self-loathing and physical endurance. How much can one person bear? And yet *A Little Life* is also a novel about friendship, unconditional love and kindness. It’s a book filled with binaries, with blacks and whites and goodies and baddies. No shades of grey here; there’s only heros and villains. 
@@ -26,7 +25,7 @@ Some people say that the characters are underdeveloped and flat, and that can be
 
 **The Focus on Friendship**
 
->"Wasn’t friendship its own miracle, the finding of another person who made the entire lonely world seem somehow less lonely?" 
+>"Wasn’t friendship its own miracle, the finding of another person who made the entire lonely world seem somehow less lonely?"
 
 *A Little Life* begins exploring the intricacies of friendship between four characters, but soon moves its focus to the relationship between Willem and Jude. Regardless of its main focus, the majority of the characters in this book are linked to each other in terms of friendship. Willem, Malcom and JB are Jude’s best friends. Andy, Jude’s lifelong doctor, is also one of his best friends. The neighbour, Richard, is also an increasingly close friend of Jude’s. Harold, who later becomes Jude’s adoptive father, starts out as a professor, then mentor, then, finally, a friend who invites him over for dinner. While there is some coupling and some romantic love in *A Little Life*, there’s hardly no space left for that sort of relationship: *A Little Life* is a novel about friendship and, to a lesser extent, family, in all its complexity.
 
@@ -87,7 +86,7 @@ And then people die in car accidents so that you, the reader, can cry your eyes 
 
 >"I admired how she knew, well before I did, that the point of a child is not what you hope he will accomplish in your name but the pleasure that he will bring you, whatever form it comes in, even if it is a form that is barely recognizable as pleasure at all - and more important, the pleasure you will be privileged to bring him." 
 
-Like, where? Where? 
+Like, where? Where?
 
 This book would fail the Bechdel test miserably. I wish I could expand on the quality of female characters in *A Little Life* – given that I can’t comment on the quantity – but, I think there’s only three or four female characters *in the entire novel* and they are all wives except for the social worker, who is a lesbian so I guess that makes her less of a woman (?), hence why she’s given a few lines. Not many lines though, just a few – I mean, she still owns a vagina, for God’s sake!
 
@@ -111,6 +110,3 @@ This book would fail the Bechdel test miserably. I wish I could expand on the qu
 ### **FINAL THOUGHTS**
 
 I liked *A Little Life*. I know it’s got its shortcomings, but I can also find a lot of value in it. And I think it’s worth giving it a go if you are able to deal with the themes – if you’re especially sensitive to topics such as pedophilia, sexual abuse, suicidal thinking, self-harming and homosexuality, I suggest you stay away from this book. If you think these won’t pose a problem, however, go ahead and read it. It will touch in a way few novels do.
-
- 
-

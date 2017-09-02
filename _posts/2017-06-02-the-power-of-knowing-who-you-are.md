@@ -2,10 +2,9 @@
 title: Day 2 | The Power Of Knowing Who You Are
 date: 2017-06-02 22:51
 layout: post
+image: "/assets/images/girlatsea.jpg"
 ---
 
-
-![](/uploads/2017/06/02/danka-peter-469.jpg)
 
 Today I wanted to write about one of my favourite students – we'll call her Anna.
 

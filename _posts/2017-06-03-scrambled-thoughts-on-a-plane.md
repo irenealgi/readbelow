@@ -2,11 +2,9 @@
 title: Day 3 | Scrambled Thoughts On a Plane
 date: '2017-06-03T15:06:49+00:00'
 layout: post
-image: []
+image: "/assets/images/fog.jpg"
 ---
 
-
-![](/uploads/2017/06/03/mark-west-240572.jpg)
 
 I'm on a plane to Madrid.
 
@@ -39,4 +37,3 @@ I think I'll be enjoying this little writing project. Later I can retouch, refin
 Just write.
 
 Every day.
-

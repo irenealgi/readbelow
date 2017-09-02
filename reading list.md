@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Reading List
+image: "/assets/images/reading.jpg"
 ---
+
 **2017**
 
 *The power of now*,	Eckhart Tolle
@@ -14,7 +16,7 @@ title: Reading List
 
 *Assassin's Apprentice*, Robin Hobbs
 
-*A Guide to the Good Life: The Ancient Art of Stoic Joy*, William B. Irvine 
+*A Guide to the Good Life: The Ancient Art of Stoic Joy*, William B. Irvine
 
 *Nina is Not OK*, Shappi Khorsandi
 
@@ -60,15 +62,20 @@ title: Reading List
 
 *Bonjour Tristesse*,	Françoise Sagan
 
-*Zero degrees of empathy*, Simon Baron-Cohen      	
-*Crossing to Safety*, Wallace Stegner   	
+*Zero degrees of empathy*, Simon Baron-Cohen
+
+*Crossing to Safety*, Wallace Stegner
+
 *To kill a mockingbird*,	Harper Lee
 
 *Room*,	Emma Donoghue
 
-*Time in Fiction*    	
-*Thirteen reasons why*, Jay Asher  	
-*Sapiens: A Brief History of Humankind*, Yuval Noah Harari  	
+*Time in Fiction*
+
+*Thirteen reasons why*, Jay Asher
+
+*Sapiens: A Brief History of Humankind*, Yuval Noah Harari
+
 *Growth Hacker*,	Ryan Holiday
 
 *Harry Potter and the Cursed Child*,	J.K Rowling
@@ -310,6 +317,7 @@ title: Reading List
 *Never Let Me Go*, Kazuo Ishiguro
 
 *When We Were Orphans*,	Kazuo Ishiguro
+
 *The History of Love*,	Nicole Krauss
 
 *1984*,	George Orwell

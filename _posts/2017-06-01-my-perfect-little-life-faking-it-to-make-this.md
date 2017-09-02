@@ -2,10 +2,9 @@
 title: 'Day 1 | My Perfect Little Life: Faking It To Make This'
 date: 2017-06-01 19:20
 layout: post
+image: "/assets/images/instagram.jpg"
 ---
 
-
-![](/uploads/2017/06/01/hans-vivek-208969.jpg)
 
 I just shut my Instagram app. I spent about 5 to 10 minutes on there. I am not an "instagramer" by nature, but two days ago I figured it'd be the easiest way to share my nice pictures with the rest of the world. Not *all* the pictures, though. Just the good ones. I'm just hoping that's exactly what everyone else is doing.
 

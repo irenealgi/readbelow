@@ -11,12 +11,13 @@ collections:
 email: irenealgi@gmail.com
 description: Literature, publishing & many other matters.
 url: http://readbelow.net
+image: "/assets/images/writing.jpg"
 markdown: kramdown
 permalink: :title
 sass:
   style: :compressed
   sass_dir: assets/sass
-paginate: 1
+paginate: 5
 gems:
 - jekyll-paginate
 exclude:

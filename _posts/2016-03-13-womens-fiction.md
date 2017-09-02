@@ -2,10 +2,8 @@
 title: On women’s fiction
 date: 2016-03-13 00:00:00 Z
 layout: post
+image: "/assets/images/women.jpg"
 ---
-
-![](https://snap-photos.s3.amazonaws.com/img-thumbs/960w/TFGZBZ1EEV.jpg)
-<br />
 
 Wikipedia defines *Women’s Fiction* as an umbrella term for women-centered books that focus on women's life experiences and are marketed to female readers; it’s a category that includes many mainstream novels. So, to make this clearer, the women’s fiction category is for:
 

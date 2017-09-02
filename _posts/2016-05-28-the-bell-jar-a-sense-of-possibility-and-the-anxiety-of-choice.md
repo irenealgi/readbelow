@@ -2,13 +2,12 @@
 title: "<em>The Bell Jar</em>, a sense of possibility and the anxiety caused by choice"
 date: 2016-05-28 00:00:00 Z
 layout: post
+image: "/assets/images/sylviaplath.jpg"
 ---
 
-<p align="center"><img src="http://16411-presscdn-0-65.pagely.netdna-cdn.com/wp-content/uploads/2015/10/plath1.jpg"/></p>
-<br />
 I'm not obsessed with Sylvia Plath's _The Bell Jar_, but I liked it. I enjoyed it. I didn't find it boring, or dull. It's got some lines of pure beauty and brilliance. I didn't adore Esther Greenwood, and I didn't _get her_; I've never been in her shoes, literally or otherwise. And yet I think it does offer some insight into what white, middle-class, young girls must have been through during the 50s and 60s in the US.
 
->“I was supposed to be having the time of my life.” 
+>“I was supposed to be having the time of my life.”
 
 Sylvia Plath was one of the most remarkable poets of her time; she was also a wife - to poet Ted Hughes - and the mother of two children, Nicholas and Frieda. A lot has been said - and conjectured - about Sylvia Plath's life, her chronic depression, her internal struggles and her feminist approach, so I won't go into that. After several attempts, Plath managed to commit suicide in 1963 by sticking her head in the oven. She left two very young children behind, and she had just turned 30 herself. _The Bell Jar_ had been published a few months earlier under the pseudonym "Victoria Lucas". 
 

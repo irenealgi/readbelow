@@ -2,10 +2,8 @@
 title: 6 reasons why reading fiction is worth your while
 date: 2016-04-06 00:00:00 Z
 layout: post
+image: "/assets/images/reading.jpg"
 ---
-
-<img src="https://c2.staticflickr.com/6/5722/20707210582_8af48942c7_b.jpg"/>
-<br />
 
 I was by no means the brightest child in my class, but my parents claim I mastered two things before anyone else in my year: shoe-lacing and reading. Apparently I was tying my friend's shoes by the age of three, and could read at normal speed by the age of seven. Since 80% of the shoes in my rather impressive collection _have_ laces, and books have been my favourite companions for more than two decades, I'd say my much younger self was onto something here.
 
