@@ -24,7 +24,6 @@ fields:
     required: true
   hidden: true
 - type: text
-- type: text
   name: excerpt
   label: Excerpt
   config:
