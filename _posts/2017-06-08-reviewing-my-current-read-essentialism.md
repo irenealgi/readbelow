@@ -1,12 +1,11 @@
 ---
-title: 'Day 8 | Reviewing My Current Read: Essentialism'
+title: 'Reviewing My Current Read: Essentialism'
 date: 2017-06-08 22:51
 layout: post
-image/file_upload: []
+image: "/assets/images/productivity.jpg"
+excerpt: How much can you get written in 20 minutes? Because that's all I got.
 ---
 
-
-![](/uploads/2017/06/08/glenn-carstens-peters-190592.jpg)
 
 How much can you get written in 20 minutes? Because that's all I got.
 

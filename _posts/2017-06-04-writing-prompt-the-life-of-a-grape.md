@@ -1,14 +1,13 @@
 ---
-title: 'Day 4 | Writing Prompt: The Life of a Grape'
+title: 'Writing Prompt: The Life of a Grape'
 date: '2017-06-04T23:40:00+01:00'
 layout: post
-image: []
+image: "/assets/images/grapes.jpg"
+excerpt: Of the 180 writing prompts you can find on this site, I picked this one.
 ---
 
 
-![](/uploads/2017/06/04/thomas-verbruggen-71575.jpg)
-
-Of the 180 writing promps you can find [here](http://www.dailyteachingtools.com/journal-writing-prompts.html#1), I picked the one below:
+Of the 180 writing prompts you can find [here](http://www.dailyteachingtools.com/journal-writing-prompts.html#1), I picked the one below:
 
 <blockquote>
 <p>Be a grape that becomes a raisin: describe how it feels to shrink, to shrivel, to become dry and wrinkled.</p>

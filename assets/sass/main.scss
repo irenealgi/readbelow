@@ -4,23 +4,24 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family:       'Open Sans', sans-serif;
-$base-font-size:         18px;
-$base-font-weight:       400;
-$small-font-size:        $base-font-size * 0.875;
+$base-font-family:      'Alegreya Sans', sans-serif;
+$base-font-size:         19px;
+$base-font-weight:       normal;
 $base-line-height:       1.5;
-$blockquote-font-family: serif;
-$blockquote-font-size:   18px;
-$spacing-unit:           30px;
-$brand-color:            #8269A4;
+$title-font-family:      Arial, sans-serif;
+$blockquote-font-family: $base-font-family;
+$blockquote-font-size:   20px;
+$spacing-unit:           45px;
+$brand-color:            #7FC498;
+$white-color:            #F1FFFA;
 
-$grey-color:       #828282;
-$grey-color-dark:  darken($grey-color, 25%);
-$grey-color-light: darken($grey-color, 10%);
+$grey-color:       #464E47;
+$grey-color-dark:  darken($grey-color, 0%);
+$grey-color-light: darken($grey-color, 0%);
 $text-color:       $grey-color-dark;
 
 // Width of the content area
-$content-width:    900px;
+$content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
@@ -33,9 +34,10 @@ $on-laptop:        800px;
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 10;
 }
+
 
 html,
 body {
@@ -60,7 +62,6 @@ body {
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
-
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
 }
@@ -81,8 +82,14 @@ li {
   }
 }
 
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
+}
+
+h2 {
+  font-size: 23px;
+  margin-bottom: 10px;
 }
 
 a {
@@ -91,11 +98,9 @@ a {
 }
 
 blockquote {
-  color: $grey-color-light;
   padding-left: $spacing-unit;
   font-family: $blockquote-font-family;
   font-size: $blockquote-font-size;
-  letter-spacing: -1px;
   font-style: italic;
 
   > :last-child {
@@ -134,21 +139,35 @@ blockquote {
   }
 }
 
+.homepage-title {
+  font-size: 70px;
+  margin-top: 0px;
+  text-align: center;
+  font: $title-font-family
+  }
+
+.homepage-subtitle {
+  font-size: 20px;
+  text-align: center;
+}
+
 .site-header {
-  background-color: black;
-  background-size: cover;
-  height: 200px;
+  z-index: 10;
   position: relative;
 
   .site-nav {
     float: right;
-    margin: 20px 20px;
+    margin: 25px 20px;
 
     .page-link {
-      color: white;
+      color: $white-color;
       letter-spacing: 1px;
       margin: 10px;
     }
+  }
+
+  .homepage-headline-title {
+    font-size: 100px;
   }
 
   .container {
@@ -162,27 +181,45 @@ blockquote {
     width: -moz-fit-content;
     width: -webkit-fit-content;
     width: fit-content;
-
-    .site-title {
-      &,
-      &:visited {
-          color: white;
-      }
-    }
   }
+}
+
+.intro-header {
+  z-index: 100;
+  height: 450px;
+  color: $white-color;
+  margin-bottom: 50px;
+}
+
+.intra-post-header {
+  padding-top: 30px;
 }
 
 .post-header {
-  margin-top: 50px;
-  text-align: center;
-  font-family: 'Rubik', sans-serif;
+  //color: white;
+  padding-top: 180px;
+  font-size: 15px;
+  color: $white-color;
+  text-align: left;
 
   .date {
-    font-size: 16px;
+    font-size: 20px;
+    font-style: "Lato";
+    color: #CCFCCB;
+
   }
 }
 
+.page-header {
+  padding-top: 200px;
+  text-align: center;
+  font-size: 30px;
+  color: $white-color;
+
+}
+
 .post-content {
+  margin-top: $spacing-unit * 2;
   margin-bottom: $spacing-unit;
 }
 
@@ -199,8 +236,9 @@ blockquote {
 }
 
 .site-footer {
-  border-top: 1px solid $grey-color;
+  border-top: 1px solid $brand-color;
   padding: $spacing-unit 0;
+  padding-top: 10px;
 
   position: absolute;
   bottom: 0;
@@ -242,14 +280,4 @@ blockquote {
 
 .archives .archive a.title:hover {
   color: $brand-color;
-}
-
-.photo-left {
-  margin-right: 10px;
-  float: left;
-}
-
-.photo-right {
-  margin-left: 10px;
-  float: right;
 }

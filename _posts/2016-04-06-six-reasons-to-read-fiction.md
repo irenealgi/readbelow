@@ -2,10 +2,9 @@
 title: 6 reasons why reading fiction is worth your while
 date: 2016-04-06 00:00:00 Z
 layout: post
+image: "/assets/images/reading.jpg"
+excerpt: Is reading fiction worth your time?
 ---
-
-<img src="https://c2.staticflickr.com/6/5722/20707210582_8af48942c7_b.jpg"/>
-<br />
 
 I was by no means the brightest child in my class, but my parents claim I mastered two things before anyone else in my year: shoe-lacing and reading. Apparently I was tying my friend's shoes by the age of three, and could read at normal speed by the age of seven. Since 80% of the shoes in my rather impressive collection _have_ laces, and books have been my favourite companions for more than two decades, I'd say my much younger self was onto something here.
 
@@ -13,13 +12,13 @@ The first novel I ever read on my own was one I had already _listened to_, as my
 
 I loved reading from the start, and to this day I still don't know if I enjoyed it because the ability came with ease or if I found it so easy because I enjoyed it and it was worth making the effort. Regardless, I read, and read, and read, and when I was eight or nine I began to write. Short stories. Longer stories. But that's another story altogether.
 
-Reading started as a form of escapism, of pure entertainment, and it was so for years. I think I began to read for enlightment quite late - I must have been fifteen or sixteen when I first grabbed _a difficult book_. 
+Reading started as a form of escapism, of pure entertainment, and it was so for years. I think I began to read for enlightment quite late - I must have been fifteen or sixteen when I first grabbed _a difficult book_.
 
 **On difficult books**
 
 Difficult books are those you struggle with in some way. You may struggle with them because they are hard to make sense of, or because they are good, but some passages could make you die of boredom - _Anna Karenina_, anyone? Difficult books often feature complex language, or grammar, or structure, or themes. Sometimes they are complex in so many ways that you have to put them aside and get back to them when you feel ready to take on the challenge.
 
-But the beauty of difficult books – and the reason I enjoy a difficult book – is precisely that they _are_ challenging and, by the time you reach their ending, they've made you better. 
+But the beauty of difficult books – and the reason I enjoy a difficult book – is precisely that they _are_ challenging and, by the time you reach their ending, they've made you better.
 
 Difficult books can be a nightmare, but they can also be rewarding. Just like most things in life, when you spend a good amount of effort (and often time) on doing something, reaching your goal is a lot more satisfying. Think about it; cooking a fantastic new dish in which you invested your entire morning in the kitchen, writing a novel that's taken you three years and a lot of sweating and going back and forth, losing a good amount of weight (healthily, steadily) and managing to change your eating habits along the way. All these accomplishments are a lot more rewarding if you put a lot of effort into them - it's _those_ things you can't take for granted.
 
@@ -31,13 +30,13 @@ Reading fiction is a great way to learn about stuff, from history to medical tre
 
 **Fiction improves your ability to sympathise**
 
-There's proof that <a href="http://www.scientificamerican.com/article/novel-finding-reading-literary-fiction-improves-empathy/" target="_blank">fiction readers tend to be more sensitive</a>, and even if there weren't, that's something I have suspected for a long time. I have always read a lot, and it's always been fiction (until now, that is!). And I've been praised a few times on my ability to understand others, to see where others are coming from. Yep, it's all in the books. 
+There's proof that <a href="http://www.scientificamerican.com/article/novel-finding-reading-literary-fiction-improves-empathy/" target="_blank">fiction readers tend to be more sensitive</a>, and even if there weren't, that's something I have suspected for a long time. I have always read a lot, and it's always been fiction (until now, that is!). And I've been praised a few times on my ability to understand others, to see where others are coming from. Yep, it's all in the books.
 
 **Fiction improves your ability to consider facts and foresee the consequences**
 
-Sometimes we forget that fiction is based on real life. Even fantasy fiction has been imagined up and written by a human living on this planet. So no matter how strange their plots may seem, they still follow the logics of the world. Just like in fiction, you can never know for certain, yet just like when you are reading fiction, you can take a wild guess - and just like when you are reading fiction, more often than not your guessing will be spot on. 
+Sometimes we forget that fiction is based on real life. Even fantasy fiction has been imagined up and written by a human living on this planet. So no matter how strange their plots may seem, they still follow the logics of the world. Just like in fiction, you can never know for certain, yet just like when you are reading fiction, you can take a wild guess - and just like when you are reading fiction, more often than not your guessing will be spot on.
 
-Our ability to understand and foresee the consequences of what's happening in the present is the result of experience: the first time the child gets hurt after jumping off a chair, he's taken aback – and cries, more because he's shocked and scared rathen than due to the pain. The second time – or maybe the tenth time – the child jumps off a chair, he knows what may happen. He knows he _may_ get hurt. He also knows that there's a chance he may _not_ get hurt, which is why we often make the same mistakes over and over. 
+Our ability to understand and foresee the consequences of what's happening in the present is the result of experience: the first time the child gets hurt after jumping off a chair, he's taken aback – and cries, more because he's shocked and scared rathen than due to the pain. The second time – or maybe the tenth time – the child jumps off a chair, he knows what may happen. He knows he _may_ get hurt. He also knows that there's a chance he may _not_ get hurt, which is why we often make the same mistakes over and over.
 
 The more fiction you read, the more experiences you learn about. It's like hearing about your neighbour having lung cancer after forty years of smoking, but multiplied by x1000. You get to read a lot about people making wrong decisions, and sometimes you may even learn from them.
 
@@ -53,19 +52,19 @@ We live in a world where little is left to the imagination - from clear images o
 
 Reading non-fiction is good for improving your general vocabulary and mastering grammar, but nothing - or no one - teaches new words like Vladimir Nabokov (who, funnily enough, didn't write in his mother tongue). The purpose of non-fiction writing - especially in commercial non-fiction - is to clearly inform and make a point. _Clearly_. As simply as possible.
 
-Can you imagine if James Joyce had woken up one day and said, _'Hah, you know what, I'll re-write Ulyssess, but I'll make it simple this time around!_' Some of you may think that'd be worth celebrating, and I won't contradict you because I haven't even gathered the courage to read that. Yet. 
+Can you imagine if James Joyce had woken up one day and said, _'Hah, you know what, I'll re-write Ulyssess, but I'll make it simple this time around!_' Some of you may think that'd be worth celebrating, and I won't contradict you because I haven't even gathered the courage to read that. Yet.
 
-But my point is that _Ulysses_ made simple wouldn't be _Ulysses_'. It'd be the story of one man's day in Dublin. _Mrs Dalloway_ made simple could be told in a couple of lines: 'That day she was having a party. She finished prepping for the party. She hosted a party. Her exboyfriend showed up at the door, and she remembered her youth. Eventually, people left'. No one wants to read that, even if it takes just half a page. It's boring. 
+But my point is that _Ulysses_ made simple wouldn't be _Ulysses_'. It'd be the story of one man's day in Dublin. _Mrs Dalloway_ made simple could be told in a couple of lines: 'That day she was having a party. She finished prepping for the party. She hosted a party. Her exboyfriend showed up at the door, and she remembered her youth. Eventually, people left'. No one wants to read that, even if it takes just half a page. It's boring.
 
-The joy of literature is that fiction writers play with words, grammar, language. And when you read them, you learn. Like when I came across the word <a href="http://www.merriam-webster.com/dictionary/granoblastic" target="_blank">_granoblastically_</a> on _Ada or Ardor_, and looked it up on the dictionary, and wondered whether it was a real word at all, and it was. And to this day I haven't had the chance to use it, but I still remember it, fresh and ready to go. 
+The joy of literature is that fiction writers play with words, grammar, language. And when you read them, you learn. Like when I came across the word <a href="http://www.merriam-webster.com/dictionary/granoblastic" target="_blank">_granoblastically_</a> on _Ada or Ardor_, and looked it up on the dictionary, and wondered whether it was a real word at all, and it was. And to this day I haven't had the chance to use it, but I still remember it, fresh and ready to go.
 
 **Fiction - and reading in general - teaches long-term focus**
 
 And with this one I finish.
 
-Newspapers are getting thinner, articles snappier. Facebook doesn't favour long-form, and Twitter forces you to write under 140 characters. We consume Buzzfeed and Snapshat; Instagram is mostly images and hashtags, maybe meaninful but free of any sense of grammar. 
+Newspapers are getting thinner, articles snappier. Facebook doesn't favour long-form, and Twitter forces you to write under 140 characters. We consume Buzzfeed and Snapshat; Instagram is mostly images and hashtags, maybe meaninful but free of any sense of grammar.
 
-We are able to hold several conversations at once via Whatsapp and when my boyfriend suggests we watch a movie, I think twice before comitting to the two and a half hours I will need in order to reach the ending - I might as well watch an episode that lasts only 45' and will (hopefully) be just as satisfying. 
+We are able to hold several conversations at once via Whatsapp and when my boyfriend suggests we watch a movie, I think twice before comitting to the two and a half hours I will need in order to reach the ending - I might as well watch an episode that lasts only 45' and will (hopefully) be just as satisfying.
 
 We are losing our ability to work on something, enjoy something, do something for a long period of time. Read books because they usually take more than a day. Read books because they will teach you to come back to the same thing again and again, until you finish it. Read books because they will improve your dying long-attention span.
 
