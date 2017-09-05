@@ -1,8 +1,9 @@
 ---
-title: Day 2 | The Power Of Knowing Who You Are
+title: The Power Of Knowing Who You Are
 date: 2017-06-02 22:51
 layout: post
 image: "/assets/images/girlatsea.jpg"
+excerpt: I met Anna online, on a platform where tutors and students could connect and agree to meet face to face. Anna was 19 at the time, in her first year of Uni. 
 ---
 
 

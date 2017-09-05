@@ -3,9 +3,10 @@ title: A review of <em>Twenty thousand streets under the sky</em>, a trilogy wri
 date: 2015-12-03 00:00:00 Z
 layout: post
 image: "/assets/images/oldlondon.jpg"
+excerpt: I love going to the library. I love going to <i>my</i> library. See, there's this shelf, in my library, where they keep all the classics.
 ---
 
-I love going to the library. I love going to _my_ library. See, there’s this shelf, in my library, where all the classics are stored. Jane Austen and Mr. Dickens are there, and so is Monsieur Proust. But here’s the thing about this shelf: Jean Rhys, Anaïs Nin and Françoise Sagan are there, too. So is Patrick Hamilton. And this is really cool, because I’m discovering many, many good ‘old’ authors thanks to this shelf.
+I love going to the library. I love going to _my_ library. See, there’s this shelf, in my library, where they keep all the classics. Jane Austen and Mr. Dickens are there, and so is Monsieur Proust. But here’s the thing about this shelf: Jean Rhys, Anaïs Nin and Françoise Sagan are there, too. So is Patrick Hamilton. And this is really cool, because I’m discovering many, many good ‘old’ authors thanks to this shelf.
 
 
 So I find this big book by someone named Patrick Hamilton, and I don’t know who he is, but there’s a love story in it so I’m suddenly interested. And then I discover they’re three volumes in one, which is a little scary, but it’s from the library so if I don’t like it I can just return unread and that’s that. So I just take it home with me. And thus my 20-days journey with _Twenty Thousand Streets under the Sky_ begins.

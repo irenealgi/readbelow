@@ -17,7 +17,7 @@ permalink: :title
 sass:
   style: :compressed
   sass_dir: assets/sass
-paginate: 5
+paginate: 7
 gems:
 - jekyll-paginate
 exclude:
