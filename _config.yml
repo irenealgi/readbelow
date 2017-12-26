@@ -18,7 +18,7 @@ sass:
   style: :compressed
   sass_dir: assets/sass
 paginate: 7
-gems:
+plugins:
 - jekyll-paginate
 exclude:
 - Guardfile
