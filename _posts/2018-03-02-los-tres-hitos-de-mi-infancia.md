@@ -8,13 +8,13 @@ excerpt: 'A mi padre, imagino que como a muchos otros, le gusta presumir de hija
 image:
 - "/uploads/2018/03/02/josh-applegate-149609-unsplash-1.jpg"
 ---
-### Tres hitos de mi infancia
+## Tres hitos de mi infancia
 
 A mi padre, imagino que como a muchos otros, le gusta presumir de hijas. También le gusta mucho hablar, hasta el punto de que mi pareja – que también casca de lo lindo – le ha llegado a describir como "la persona que más habla del mundo". Si os estáis preguntando si yo también soy charlatana, la respuesta es afirmativa. Aquí nos gusta hablar a casi todos, menos a mi madre, a mi hermana, a mi suegra, a mi suegro, y a mis cuñados, que son como más silenciosos.
 
 El caso es que cuando mi padre habla de mí, le encanta contar cómo yo era una niña muy especial y todas las cosas que he logrado a lo largo de mi vida. Como además de hablar le encanta recordar y tiene una memoria francamente maravillosa, tengo mucha información sobre mi infancia, siempre de una fiabilidad un tanto relativa. A mí me gustaría hablar hoy de tres hitos que mi padre siempre destaca y que a mí me llaman mucho la atención, más que nada porque son un tanto _random_
 
-#### Fui la primera de mi clase en aprender a atarse los cordones de los zapatos
+### Fui la primera de mi clase en aprender a atarse los cordones de los zapatos
 
 Recordemos lo de la fiabilidad un tanto relativa. Honestamente, nadie en mi familia sabe en qué momento los veinte niños con los que compartí aula, sudor y lágrimas durante diez largos años aprendieron a atarse los cordones de los zapatos, pero por lo que sea a mi padre le gusta presumir de que yo fui la primera en alcanzar semejante logro.
 
@@ -24,7 +24,7 @@ Este hecho, a ojos de mi padre, demuestra generosidad con mis habilidades y mi t
 
 Curiosamente, a nadie se le ocurrió llevarme a clases de macramé o comprarme un kit para montar bisutería de plástico de colores, o cualquier otra actividad que potenciara mi evidente aptitud natural para trabajar con las manos. Y curiosamente también, las artes plásticas nunca – jamás – se me dieron bien. Pero de este tema ya hablaré en otro momento.
 
-#### Fui la primera de mi clase en aprender a leer
+### Fui la primera de mi clase en aprender a leer
 
 Y esta puede que hasta sea cierta, porque yo me convertí en lectora a los cinco años a raíz de un libro del Barco de Vapor serie azul que me leía mi madre. Es curioso, porque no recuerdo otro libro, así que igual sólo teníamos ese. Se titulaba _La Lluna vol un fill (La Luna quiere un hijo)_, y estaba claramente inspirado en una canción de Mecano, aunque eso entonces yo no lo sabía.
 
@@ -38,7 +38,7 @@ De los libros de tomo azul pasé a los de tomo naranja, que eran mis favoritos p
 
 Nunca llegué a los libros de tomo rojo, los que eran para niños de más de doce años, porque por aquella época mi madre empezó a comprarme libros de Roald Dahl, sufrí con _La Historia Interminable_ (una novela de fantasía, vaya tostón), me enganché a Harry Potter (un niño mago, qué pereza) y descubrí las novelas para adolescentes, lo que ahora s conoce como _Young Adult, o YA_. Empecé a ir a la biblioteca, yo solita, con la mochila cargada de libros para devolver a la ida y repleta de nuevas historias para leer a la vuelta. Los devoraba, una historia tras otra, sentada en el sofá, debajo de la lámpara alógena que "gasta mucho en electricidad" y con la que un día prendí fuego a un _kleenex_. Pero esa es otra historia.
 
-#### No falté un solo día al colegio
+### No falté un solo día al colegio
 
 Si lo de atarme los cordones y aprender a leer a una edad precoz son cosas de las que a mi padre le gusta hablar, lo del récord de asistencia es algo que cuenta con mucho orgullo y satisfacción, entre otras cosas porque se atribuye el mérito.
 
