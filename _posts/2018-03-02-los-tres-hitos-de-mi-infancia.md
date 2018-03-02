@@ -24,7 +24,7 @@ Curiosamente, a nadie se le ocurrió llevarme a clases de macramé o comprarme u
 
 ### Fui la primera de mi clase en aprender a leer
 
-Y esta puede que hasta sea cierta, porque yo me convertí en lectora a los cinco años a raíz de un libro del Barco de Vapor serie azul que me leía mi madre. Es curioso, porque no recuerdo otro libro, así que igual sólo teníamos ese. Se titulaba _La Lluna vol un fill (La Luna quiere un hijo)_, y estaba claramente inspirado en una canción de Mecano, aunque eso entonces yo no lo sabía.
+Y esta puede que hasta sea cierta, porque yo me convertí en lectora a los cinco años a raíz de un libro del Barco de Vapor serie azul que me leía mi madre. Es curioso, porque no recuerdo otro libro, así que igual sólo teníamos ese\*. Se titulaba _La Lluna vol un fill (La Luna quiere un hijo)_, y estaba claramente inspirado en una canción de Mecano, aunque eso entonces yo no lo sabía.
 
 Imagino que mi madre acabaría harta de contarme la misma historia imposible y un tanto frustrante una y otra vez – aunque dudo que mi versión incluyera gitanas y calés –, y al final me diría "Mira, cariño, vamos a enseñarte a leer para que la disfrutes tú solita". Y así aprendí yo a leer, con la historia de un ser estéril que quiere ser madre.
 
@@ -34,7 +34,7 @@ Yo leía como si hubiera un premio esperándome tras el punto y final. Tal vez s
 
 De los libros de tomo azul pasé a los de tomo naranja, que eran mis favoritos porque tenían más enjundia. Los personajes empezaban a ser huérfanos, los padres se divorciaban, los niños se gustaban los unos a los otros, en fin, las historias se parecían a lo que contaban en el telenoticias. Recuerdo las contra-cubiertas, el parrafón que te explicaba de qué iba el libro y, al final, aquellas dos palabras mágicas en negrilla: **Novela realista**. Si ponía _novela fantástica_, _novela de misterio_ o _novela de humor_, las ignoraba vilmente. Pero, ay, las novelas _realistas_. Eso era como la vida misma, tú. Os lo digo: todo lo que sé a día de hoy lo aprendí de los libros de la serie naranja del Barco de Vapor.
 
-Nunca llegué a los libros de tomo rojo, los que eran para niños de más de doce años, porque por aquella época mi madre empezó a comprarme libros de Roald Dahl, sufrí con _La Historia Interminable_ (una novela de fantasía, vaya tostón), me enganché a Harry Potter (un niño mago, qué pereza) y descubrí las novelas para adolescentes, lo que ahora s conoce como _Young Adult, o YA_. Empecé a ir a la biblioteca, yo solita, con la mochila cargada de libros para devolver a la ida y repleta de nuevas historias para leer a la vuelta. Los devoraba, una historia tras otra, sentada en el sofá, debajo de la lámpara alógena que "gasta mucho en electricidad" y con la que un día prendí fuego a un _kleenex_. Pero esa es otra historia.
+Nunca llegué a los libros de tomo rojo, los que eran para niños de más de doce años, porque por aquella época mi madre empezó a comprarme libros de verdad. Empecé a ir a la biblioteca, yo solita, con la mochila cargada de libros para devolver a la ida y repleta de nuevas historias para leer a la vuelta. Los devoraba, una historia tras otra, sentada en el sofá, debajo de la lámpara halógena que "gasta mucho en electricidad" y con la que un día prendí fuego a un _kleenex_. 
 
 ### No falté un solo día al colegio
 
@@ -45,3 +45,5 @@ Cuenta la leyenda que cuando éramos pequeñas ni yo ni mi hermana enfermábamos
 Porque yo recuerdo ponerme enferma en mi infancia, en concreto recuerdo dos ocasiones. Está la vez que me pillé un gripazo de aupa en un 22 de Junio, el día en que terminaban las clases, y me tiré dos semanas tomando Augmentine en sobre, que es el antibiótico con el peor sabor de la historia de los antibióticos, tres veces al día, mientras los demás niños del camping se bañaban en la piscina. Y están esas navidades que pasé en el pueblo de mis abuelos, donde de tanto moquear y sonarme la nariz se me hicieron cortes en el morro y me sangró el hocico. El cacao escocía. El pañuelo escocía. Si hablaba, si me reía, si lloraba, me sangraba debajo de la nariz. Ese resfriado fue eterno; todavía recuerdo el dolor.
 
 Así que mi padre tiene razón cuando dice que jamás falté a clase por enfermedad; yo enfermaba al empezar las vacaciones. Supongo que era la presión interna: nunca me ha gustado romper mi propio track record. Y al terminar el trimestre mi cuerpo se relajaba, y me entraban todos los males.
+
+\*Mi madre me ha corregido respecto a este punto. Resulta que mi estantería estaba llena de cuentos infantiles que no recuerdo, y ella me los leía en voz con cariño y devoción, destacando en su interpretación de Lobo y Abuela en _Caperucita Roja_.
