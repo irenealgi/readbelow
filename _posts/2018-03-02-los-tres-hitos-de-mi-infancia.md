@@ -8,8 +8,6 @@ excerpt: 'A mi padre, imagino que como a muchos otros, le gusta presumir de hija
 image:
 - "/uploads/2018/03/02/josh-applegate-149609-unsplash-1.jpg"
 ---
-## Tres hitos de mi infancia
-
 A mi padre, imagino que como a muchos otros, le gusta presumir de hijas. También le gusta mucho hablar, hasta el punto de que mi pareja – que también casca de lo lindo – le ha llegado a describir como "la persona que más habla del mundo". Si os estáis preguntando si yo también soy charlatana, la respuesta es afirmativa. Aquí nos gusta hablar a casi todos, menos a mi madre, a mi hermana, a mi suegra, a mi suegro, y a mis cuñados, que son como más silenciosos.
 
 El caso es que cuando mi padre habla de mí, le encanta contar cómo yo era una niña muy especial y todas las cosas que he logrado a lo largo de mi vida. Como además de hablar le encanta recordar y tiene una memoria francamente maravillosa, tengo mucha información sobre mi infancia, siempre de una fiabilidad un tanto relativa. A mí me gustaría hablar hoy de tres hitos que mi padre siempre destaca y que a mí me llaman mucho la atención, más que nada porque son un tanto _random_
