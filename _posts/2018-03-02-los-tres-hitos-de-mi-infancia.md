@@ -46,4 +46,4 @@ Porque yo recuerdo ponerme enferma en mi infancia, en concreto recuerdo dos ocas
 
 Así que mi padre tiene razón cuando dice que jamás falté a clase por enfermedad; yo enfermaba al empezar las vacaciones. Supongo que era la presión interna: nunca me ha gustado romper mi propio track record. Y al terminar el trimestre mi cuerpo se relajaba, y me entraban todos los males.
 
-\*Mi madre me ha corregido respecto a este punto. Resulta que mi estantería estaba llena de cuentos infantiles que no recuerdo, y ella me los leía en voz con cariño y devoción, destacando en su interpretación de Lobo y Abuela en _Caperucita Roja_.
+\*Mi madre me ha corregido respecto a este punto. Resulta que mi estantería estaba llena de cuentos infantiles que no recuerdo, y ella me los leía en voz alta con todo su cariño y devoción, destacando en su interpretación de Lobo y Abuela en _Caperucita Roja_.
