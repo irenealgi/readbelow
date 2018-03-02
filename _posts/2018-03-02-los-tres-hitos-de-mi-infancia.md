@@ -6,7 +6,7 @@ excerpt: 'A mi padre, imagino que como a muchos otros, le gusta presumir de hija
   También le gusta mucho hablar, hasta el punto de que mi pareja – que también casca
   de lo lindo – le ha llegado a describir como "la persona que más habla del mundo". '
 image:
-- "/uploads/2018/03/02/josh-applegate-149609-unsplash.jpg"
+- "/uploads/2018/03/02/josh-applegate-149609-unsplash-1.jpg"
 ---
 ### Tres hitos de mi infancia
 
